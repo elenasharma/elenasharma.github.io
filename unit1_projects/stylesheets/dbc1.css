@@ -9,7 +9,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 body {
-	background-color: silver;
+	background-color: #66CCFF;
+	font-family: Courier, monospace;
 }
 
 /* Selectors: classes; */
@@ -18,9 +19,9 @@ body {
 	color: SlateBlue;
 }
 
-/*.skyblue {
-	color: SkyBlue;
-}*/
+.midblue {
+	color: #6699FF;
+}
 
 /*Selectors: IDs; */
 #h1, #h2, #h3, #h4, #h5, #h6 {
