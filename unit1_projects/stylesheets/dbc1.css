@@ -4,10 +4,6 @@ p {
 	font-family: Tahoma, sans-serif;
 }
 
-/*h1, h2, h3, h4, h5, h6 {
-	'Arial Black', sans-serif;
-}*/
-
 body {
 	background-color: #99FFFF;
 	font-family: Courier, monospace;
@@ -24,7 +20,9 @@ body {
 }
 
 /*Selectors: IDs; */
-#h1, #h2, #h3, #h4, #h5, #h6 {
-	font-weight: bolder;
-	color: #660066;
+#h3 {
+	color: #990033;
+	font-style: italic;
 }
+
+
