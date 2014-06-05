@@ -2,6 +2,7 @@ dbc1.html { property: dbc1.css }
 
 body {
 	background-color:#99CCFF;
+	color:#330066;
 	font-family:Courier, monospace;
 }
 
@@ -9,15 +10,17 @@ body {
 	font-weight:bold;
 }
 
-p {
-	color:#6699FF;
-	font-family:Tahoma, sans-serif;
-}
-
 #h3italic {
 	color:#990033;
 	font-style:italic;
 }
+
+p {
+	color:#6633FF;
+	font-family:Tahoma, sans-serif;
+}
+
+
 
 
 
