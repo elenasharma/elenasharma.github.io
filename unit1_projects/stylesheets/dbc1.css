@@ -1,15 +1,15 @@
 dbc1.html { property: dbc1.css }
 
 p {
-	font-family: Palatino, sans-serif;
+	font-family: Tahoma, sans-serif;
 }
 
-h1, h2, h3, h4, h5, h6 {
+/*h1, h2, h3, h4, h5, h6 {
 	'Arial Black', sans-serif;
-}
+}*/
 
 body {
-	background-color: #66CCFF;
+	background-color: #99FFFF;
 	font-family: Courier, monospace;
 }
 
@@ -26,4 +26,5 @@ body {
 /*Selectors: IDs; */
 #h1, #h2, #h3, #h4, #h5, #h6 {
 	font-weight: bolder;
+	color: #660066;
 }
