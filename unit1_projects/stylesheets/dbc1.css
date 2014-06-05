@@ -1,27 +1,28 @@
 dbc1.html { property: dbc1.css }
 
 body {
-	background-color: #99FFFF;
-	font-family: Courier, monospace;
-	font-style: normal;
+	background-color:#99CCFF;
+	color:;
+	font-family:Courier, monospace;
 }
 
-/* Selectors: classes; */
-<style>
-.slateblue {
-	color: SlateBlue;
+.header {
+	font-weight:bold;
 }
 
-/*Selectors: IDs; */
-#h3 {
-	color: #990033;
-	font-style: italic;
+.midblue {
+	color:#6699FF;
+	font-family:Tahoma, sans-serif;
 }
 
-#paragraph {
-	font-family: Tahoma, sans-serif;
-	color: #6699FF;
+#h3italic {
+	color:#990033;
+	font-style:italic;
 }
-</style>
+
+
+
+
+
 
 
