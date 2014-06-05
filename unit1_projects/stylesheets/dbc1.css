@@ -1,5 +1,16 @@
 dbc1.html { property: dbc1.css }
 
+/*Selectors: IDs; */
+#h3 {
+	color: #990033;
+	font-style: italic;
+}
+
+#paragraph {
+	font-family: Tahoma, sans-serif;
+	color: #6699FF;
+}
+
 body {
 	background-color: #99FFFF;
 	font-family: Courier, monospace;
@@ -12,15 +23,7 @@ body {
 	color: SlateBlue;
 }
 
-/*Selectors: IDs; */
-#h3 {
-	color: #990033;
-	font-style: italic;
-}
 
-#paragraph {
-	font-family: Tahoma, sans-serif;
-	color: #6699FF;
-}
+
 
 
