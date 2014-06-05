@@ -1,0 +1,24 @@
+p {
+	font-family: Palatino, sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	'Arial Black', sans-serif;
+}
+
+background-color: Silver;
+
+/* Selectors: classes; */
+
+.slateblue {
+	color: SlateBlue;
+}
+
+/*.skyblue {
+	color: SkyBlue;
+}*/
+
+/*Selectors: IDs; */
+#h1, #h2, #h3, #h4, #h5, #h6 {
+	font-weight: bolder;
+}
