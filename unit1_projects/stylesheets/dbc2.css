@@ -12,6 +12,8 @@ dbc2.html { property: dbc2.css }
     Float side bar and content area*/
 body {
 	margin: 50px;
+	background-color:#FF3300;
+	font-family: "Arial Black";
 }
 
 #header {
@@ -19,10 +21,10 @@ body {
 	background-color:#F8F8F8;
 }
 
-#headerContent {
+/*#headerContent {
 	margin: 0 auto;
 	width: 960px;
-}
+}*/
 
 section {
 	text-align:center;
