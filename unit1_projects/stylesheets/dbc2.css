@@ -1,17 +1,5 @@
 dbc2.html { property: dbc2.css }
 
-/*Add the following to dbc2.css:
-
-    Format your header, content, sidebar, and footer
-    Add padding, borders, and margins
-    Center your content area in the browser
-    Add width and height to divs and give them ids
-    Pseudo-classes for links
-    Positioning
-    A div that contains an image and a caption, and position the caption absolutely overtop the image.
-    Float side bar and content area*/
-
-/*Background image and transparent layer*/
 body {
 	background-image: url(http://upload.wikimedia.org/wikipedia/commons/d/d6/Timeless_Books.jpg);
 	background-repeat: no-repeat;
