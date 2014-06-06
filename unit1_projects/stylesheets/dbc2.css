@@ -65,7 +65,7 @@ body:before {
 .imagecontainer {
 	float:left;
 	width:290px;
-	margin-bottom:150px;
+	margin-bottom:160px;
 }
 
 #image {
@@ -76,7 +76,7 @@ body:before {
 	color:white;
 	font-family:Arial;
 	font-size:small;
-	padding-left:28px;
+	padding-left:27px;
 	padding-top:118px;
 	position:absolute;
 }
