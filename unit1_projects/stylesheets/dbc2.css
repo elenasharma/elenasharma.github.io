@@ -72,16 +72,17 @@ body:before {
 }
 
 #caption {
-	position:absolute;
 	color:white;
 	font-size:small;
+	position:absolute;
+	top:150px;
 }
 
 #sidebar {
 	background-color:rgba(0,0,0, 0.2);
 	color:rgb(0,0,0);
 	float: left;
-	margin-top:27px;
+	margin-top:200px;
 	width: 290px;
 }
 
