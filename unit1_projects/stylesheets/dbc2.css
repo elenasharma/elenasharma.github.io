@@ -11,9 +11,9 @@ dbc2.html { property: dbc2.css }
     A div that contains an image and a caption, and position the caption absolutely overtop the image.
     Float side bar and content area*/
 body {
-	margin: 50px;
 	background-color:#FF3300;
 	font-family: "Arial Black";
+	margin: 50px;
 }
 
 #header {
@@ -26,9 +26,9 @@ body {
 	width: 960px;
 }*/
 
-section {
+/*section {
 	text-align:center;
-	/*float: right;*/
+	float: right;
 	margin: 200px;
 	width: 60%;
 }
@@ -41,7 +41,7 @@ aside {
 
 footer {
 	clear: both;
-}
+}*/
 
 /*.contentTitle {
 	border-style: solid; 
