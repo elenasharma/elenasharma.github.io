@@ -13,6 +13,7 @@ dbc2.html { property: dbc2.css }
 body {
 	background-color:#F8F8F8;
 	background-image: url(https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSNr5TaZT6BWeuZZeyKqrlcK-_DO7prSCP3TIu4eb9pE3ydm0y4);
+	background-repeat: no-repeat;
 	font-family: "Arial Black";
 	margin: 50px;
 }
