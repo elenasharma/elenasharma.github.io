@@ -16,9 +16,10 @@ body {
 
 
 section {
-	float: right;
+	text-align:center;
+	/*float: right;
 	margin: 0 1.5%;
-	width: 60%;
+	width: 60%;*/
 }
 
 aside {
@@ -36,4 +37,8 @@ footer {
 	border-width: 5px;
 	border-color: #6633FF;
 	padding: 25px 50px;
+}
+
+.emphasis {
+	color:#993333;
 }
