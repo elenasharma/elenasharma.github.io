@@ -21,6 +21,14 @@ body {
 	background-color:#E0E0E0;
 }
 
+#headerContent {
+	margin:3px;
+}
+
+#subheading {
+	margin:3px;
+}
+
 /*#headerContent {
 	margin: 0 auto;
 	width: 960px;
@@ -34,7 +42,7 @@ section {
 }
 
 aside {
-	float: left
+	float: left;
 	margin: 0 1.5%;
 	width: 35%;
 }
