@@ -62,9 +62,13 @@ body:before {
 }
 
 /*Sidebar formatting*/
+.image {
+	float:left;
+	width:290px;
+}
+
 .image p {
-	text-align: center;
-	font-size:small;
+	right:0;
 }
 
 #sidebar {
