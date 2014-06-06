@@ -31,10 +31,10 @@ body:before {
 }
 
 #header {
-	background-color:#F8F8F8;
-	border-color:#E0E0E0;
+	background-color:rgba(248,248,248, 0.5);
+	border-color:#000000;
 	border-style:solid;
-	border-width:2px;
+	border-width:5px;
 	width:100%;
 }
 
