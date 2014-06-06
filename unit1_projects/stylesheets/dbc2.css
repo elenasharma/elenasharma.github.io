@@ -15,8 +15,8 @@ body {
 }
 
 #header {
-	width:100%;
-	background-color:#CCFFFF;
+	width:80%;
+	background-color:#F8F8F8;
 }
 
 #headerContent {
@@ -41,12 +41,12 @@ footer {
 	clear: both;
 }
 
-.contentTitle {
+/*.contentTitle {
 	border-style: solid; 
 	border-width: 5px;
 	border-color: #6633FF;
 	padding: 25px 50px;
-}
+}*/
 
 .emphasis {
 	color:#993333;
