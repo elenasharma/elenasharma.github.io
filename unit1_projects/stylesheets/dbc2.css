@@ -76,8 +76,9 @@ body:before {
 	color:white;
 	font-family:Arial;
 	font-size:small;
-	padding-top:70px;
+	padding-top:110px;
 	position:absolute;
+	text-align:center;
 }
 
 #sidebar {
