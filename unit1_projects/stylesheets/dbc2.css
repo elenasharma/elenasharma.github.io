@@ -75,11 +75,12 @@ a.linkedpage:link, a.linkedpage:visited {
 }
 
 a.linkedpage:hover {
-	color:#B80000;
+	color:#D00000;
 }
 /*Sidebar formatting*/
 .imagecontainer {
 	float:left;
+	height:150px;
 	width:290px;
 	margin-bottom:160px;
 }
@@ -101,6 +102,7 @@ a.linkedpage:hover {
 	background-color:rgba(0,0,0, 0.2);
 	color:rgb(0,0,0);
 	float: left;
+	height:450px;
 	margin-top:27px;
 	width: 290px;
 }
