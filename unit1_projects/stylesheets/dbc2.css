@@ -67,8 +67,10 @@ body:before {
 	width:290px;
 }
 
-.image p {
-	right:0;
+.image p:before{
+	position:absolute;
+	width:100%;
+	z-index:-1;
 }
 
 #sidebar {
