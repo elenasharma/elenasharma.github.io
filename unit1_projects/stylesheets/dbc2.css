@@ -63,9 +63,10 @@ body:before {
 
 /*Sidebar formatting*/
 #sidebar {
-	border-color:#000000;
+	background-color:rgba(248,248,248, 0.5);
+	/*border-color:#000000;
 	border-style:solid;
-	border-width:5px;
+	border-width:5px;*/
 	float: left;
 	width: 310px;
 }
