@@ -43,7 +43,6 @@ body:before {
 	border-color:#000000;
 	border-style:solid;
 	border-width:5px;
-	/*width:99.3%;*/
 }
 
 #headerContent {
@@ -54,9 +53,8 @@ body:before {
 
 /*Content formatting*/
 #content {
-	text-align:center;
+	/*text-align:center;*/
 	float:right;
-	margin: 30px 200px;
 	width: 580px;
 }
 
