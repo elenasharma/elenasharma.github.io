@@ -48,7 +48,7 @@ section {
 	text-align:center;
 	float: right;
 	margin: 30px 200px;
-	width: 60%;
+	width: 50%;
 }
 
 .emphasis {
@@ -61,7 +61,7 @@ aside {
 	border-width:5px;
 	float: left;
 	/*margin: 0 1.5%;*/
-	width: 35%;
+	width: 25%;
 }
 
 footer {
