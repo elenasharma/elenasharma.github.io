@@ -1,0 +1,40 @@
+dbc2.html { property: dbc2.css }
+
+/*Add the following to dbc2.css:
+
+    Format your header, content, sidebar, and footer
+    Add padding, borders, and margins
+    Center your content area in the browser
+    Add width and height to divs and give them ids
+    Pseudo-classes for links
+    Positioning
+    A div that contains an image and a caption, and position the caption absolutely overtop the image.
+    Float side bar and content area*/
+body {
+	margin: 50px;
+}
+
+
+section {
+	float: right;
+	margin: 0 1.5%;
+	width: 55%;
+}
+
+aside {
+	float: left
+	margin: 0 1.5%;
+	width: 40%;
+}
+
+footer {
+	clear: both;
+}
+
+.contentTitle {
+	border-style: solid; 
+	border-width: 5px;
+	border-color: #6633FF;
+	padding: 25px 50px;
+	float: right;
+}
