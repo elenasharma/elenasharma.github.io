@@ -74,6 +74,7 @@ body:before {
 footer {
 	clear: both;
 	bottom: 0;
+	position:absolute;
 }
 
 .citation {
