@@ -44,14 +44,14 @@ body:before {
 	border-style:solid;
 	border-width:5px;
 	height:150px;
-	width:900px;
+	width:895px;
 }
 
 #headerContent {
 	height:150px;
 	margin: 0 auto;
 	padding-left: 15px;
-	width: 900px;
+	width: 895px;
 }
 
 /*Content formatting*/
