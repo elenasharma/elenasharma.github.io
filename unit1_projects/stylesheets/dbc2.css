@@ -74,7 +74,9 @@ body:before {
 
 #caption {
 	color:white;
+	font-family:Arial;
 	font-size:small;
+	padding-top:70px;
 	position:absolute;
 }
 
