@@ -17,8 +17,11 @@ body {
 }
 
 #header {
-	width:30%;
 	background-color:#E0E0E0;
+	border-style:solid;
+	border-width:2px;
+	border-color:#D0D0D0;
+	width:30%;
 }
 
 #headerContent {
