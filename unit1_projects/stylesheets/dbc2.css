@@ -63,8 +63,7 @@ body:before {
 
 /*Sidebar formatting*/
 .image p {
-	position:absolute;
-	right:0;
+	text-align: center;
 	font-size:small;
 }
 
