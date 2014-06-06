@@ -67,9 +67,16 @@ body:before {
 
 .explanation {
 	font-family:Arial;
-	font-style:bold;
+	font-weight:bold;
 }
 
+a.linkedpage:link, a.linkedpage:visited {
+	color:#880000;
+}
+
+a.linkedpage:hover {
+	color:#B80000;
+}
 /*Sidebar formatting*/
 .imagecontainer {
 	float:left;
