@@ -15,7 +15,6 @@ body {
 	background-repeat: no-repeat;
 	background-size:100%;
 	font-family: "Arial Black";
-	/*margin: 50px;*/
 }
 
 body:before {
@@ -64,24 +63,16 @@ body:before {
 	border-style:solid;
 	border-width:5px;
 	float: left;
-	/*margin: 0 1.5%;*/
 	width: 380px;
 }
 
 footer {
 	clear: both;
 	bottom: 0;
-	position: absolute;
 }
 
 .citation {
 	font-size:small;
 }
 
-/*.contentTitle {
-	border-style: solid; 
-	border-width: 5px;
-	border-color: #6633FF;
-	padding: 25px 50px;
-}*/
 
