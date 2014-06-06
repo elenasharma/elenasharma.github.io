@@ -62,15 +62,19 @@ body:before {
 }
 
 /*Sidebar formatting*/
-.image {
+.imagecontainer {
 	float:left;
 	width:290px;
 }
 
-.image p:before{
+#image {
 	position:absolute;
-	width:100%;
-	z-index:-1;
+}
+
+#caption {
+	position:absolute;
+	color:white;
+	font-size:small;
 }
 
 #sidebar {
