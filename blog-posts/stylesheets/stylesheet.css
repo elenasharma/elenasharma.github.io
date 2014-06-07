@@ -21,11 +21,11 @@ template.html {property: stylesheet.css}
 	/*width:750px;*/
 }
 
-/*#bar {
+#bar {
 	background-color:#476B6B;
 	height:10px;
 	width:800px;
-}*/
+}
 
 #sideimg {
 	position: fixed;
