@@ -14,19 +14,16 @@ template.html {property: stylesheet.css}
 
 #navbar {
 	color:#476B6B;
-	float:center;
 	font-weight:bold;
-	margin-left:auto;
-	margin-right:auto;
+	left:0;
 	position:fixed;
-	/*width:750px;*/
 }
 
-#bar {
+/*#bar {
 	background-color:#476B6B;
 	height:10px;
 	width:960px;
-}
+}*/
 
 .black {
 	color:black;
