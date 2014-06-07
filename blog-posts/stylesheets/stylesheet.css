@@ -26,6 +26,14 @@ template.html {property: stylesheet.css}
 	width:800px;
 }
 
+#sideimg {
+	position: fixed;
+	left:0;
+	top:0;
+	bottom:0;
+	overflow:auto;
+}
+
 .content {
 	font-family:Baskerville, serif;
 	margin-left:auto;
