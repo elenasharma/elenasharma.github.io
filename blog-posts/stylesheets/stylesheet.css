@@ -48,8 +48,8 @@ nav ul {
 
 		nav ul ul li {
 			float:none;
-			border-top: 1px solid #6b727c;
-			border-bottom: 1px solid #575f6a;
+/*			border-top: 1px solid #6b727c;
+			border-bottom: 1px solid #575f6a;*/
 			position:relative;
 		}
 
@@ -66,7 +66,7 @@ nav ul {
 		float:left;
 	}
 
-		nav ul li:hover {
+		nav ul li:hover > ul{
 			display:block;
 			background:#E0EBEB;
 		}
