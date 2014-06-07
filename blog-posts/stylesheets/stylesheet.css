@@ -98,4 +98,12 @@ h2 {
 	width:500px;
 }
 
+.indexlink {
+	font-weight:bold;
+	text-decoration:none;
+}
 
+.indexlink:hover {
+	font-weight:bold;
+	color:#85ADFF;
+}
