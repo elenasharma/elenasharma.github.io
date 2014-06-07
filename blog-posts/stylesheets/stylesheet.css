@@ -22,6 +22,14 @@ a:hover {
 	background-color:#E0EBEB;
 }*/
 
+#topimg {
+	display:none;
+}
+
+#topimg:hover > nav{
+	display:block;
+}
+
 nav {
 	position:fixed;
 }
@@ -81,7 +89,7 @@ nav ul {
 			}
 		nav ul li a {
 			display: block;
-/*			padding: 25px 40px;*/
+			padding: 5px 40px;
 			color:#476B6B;
 			text-decoration:none;
 		}
