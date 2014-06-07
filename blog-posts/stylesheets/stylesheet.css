@@ -7,28 +7,12 @@ template.html {property: stylesheet.css}
 	text-align:center;
 }
 
-/*#topimg {
-	float:center;
-	width:300px;
-}*/
-
-/*a:link {
-	color:#476B6B;
-	text-decoration:none;
-}
-
-a:hover {
-	color:#A3C2C2;
-	background-color:#E0EBEB;
-}*/
-
 nav {
 	position:fixed;
 	top:0;
 }
 
 nav ul {
-/*	background:#EDFFF6;*/
 	border-radius:10px;
 /*	display:inline-table;*/
 	font-weight:bold;
@@ -83,7 +67,7 @@ nav ul {
 		nav ul li a {
 			display: block;
 			padding: 5px 20px;
-			color:#476B6B;
+			color:#000000;
 			text-decoration:none;
 		}
 
