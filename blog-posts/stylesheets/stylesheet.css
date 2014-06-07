@@ -31,6 +31,9 @@ a:hover {
 	position:fixed;
 }
 
+#navbartext {
+	font-size:small;
+}
 #bar {
 	background-color:#476B6B;
 	height:3px;
