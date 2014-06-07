@@ -58,11 +58,10 @@ nav ul {
 
 		nav ul li:hover > ul{
 			display:block;
-			background:#EDFFF6;
 		}
 
 			nav ul li:hover a {
-				background:rgba(#FFFFFF, 0.8);
+				color:#EDFFF6;
 			}
 
 		nav ul li a {
