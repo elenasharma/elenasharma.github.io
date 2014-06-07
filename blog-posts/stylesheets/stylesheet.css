@@ -29,7 +29,28 @@ nav ul {
 
 	nav ul ul {
 		display:none;
+		background:#E0EBEB;
+		border-radius: 0px;
+		padding:0;
+		position:absolute;
+		top:100%;
 	}
+
+		nav ul ul li {
+			float:none;
+			border-top: 1px solid #6b727c;
+			border-bottom: 1px solid #575f6a;
+			position:relative;
+		}
+
+			nav ul ul li a {
+				padding:15px 40px;
+				color:#476B6B;
+			}
+
+				nav ul ul li a:hover {
+					color:#A3C2C2;
+				}
 
 	nav ul li {
 		float:left;
