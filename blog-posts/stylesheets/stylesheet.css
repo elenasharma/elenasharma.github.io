@@ -62,7 +62,7 @@ nav ul {
 		}
 
 			nav ul li:hover a {
-				color:#A3C2C2;
+				background:rgba(#FFFFFF, 0.8);
 			}
 		nav ul li a {
 			display: block;
