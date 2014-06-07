@@ -24,9 +24,12 @@ template.html {property: stylesheet.css}
 #bar {
 	background-color:#476B6B;
 	height:10px;
-	width:100%;
+	width:960px;
 }
 
+.black {
+	color:black;
+}
 /*#sideimg {
 	position: fixed;
 	left:0;
