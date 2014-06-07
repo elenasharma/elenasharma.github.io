@@ -8,7 +8,7 @@ template.html {property: stylesheet.css}
 }
 
 nav {
-	left:90px;
+	left:85px;
 	position:fixed;
 	top:0;
 }
