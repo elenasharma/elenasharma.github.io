@@ -17,14 +17,14 @@ template.html {property: stylesheet.css}
 	font-weight:bold;
 	margin-left:auto;
 	margin-right:auto;
-	/*position:fixed;*/
+	position:fixed;
 	/*width:750px;*/
 }
 
 #bar {
 	background-color:#476B6B;
 	height:10px;
-	width:800px;
+	width:100%;
 }
 
 /*#sideimg {
