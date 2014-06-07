@@ -14,6 +14,7 @@ template.html {property: stylesheet.css}
 
 #navbar {
 	color:#476B6B;
+	float:center;
 	font-weight:bold;
 	margin-left:auto;
 	margin-right:auto;
