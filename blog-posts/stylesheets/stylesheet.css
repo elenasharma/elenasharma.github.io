@@ -24,6 +24,7 @@ a:hover {
 
 nav {
 	position:fixed;
+	top:0;
 }
 
 nav ul {
@@ -58,7 +59,7 @@ nav ul {
 		}
 
 			nav ul ul li a {
-				padding:10px;
+				padding:8px;
 				color:#476B6B;
 			}
 
@@ -81,7 +82,7 @@ nav ul {
 			}
 		nav ul li a {
 			display: block;
-			padding: 5px 30px;
+			padding: 5px 20px;
 			color:#476B6B;
 			text-decoration:none;
 		}
