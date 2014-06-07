@@ -24,8 +24,18 @@ a:hover {
 
 nav ul {
 	background:#E6FFFF;
+	border-radius:10px;
+	display:inline-table;
+	list-style:none;
+	padding:0 20px;
 	position:relative;
 }
+
+	nav ul:after {
+		content: "";
+		clear: both;
+		display:block;
+	}
 
 	nav ul ul {
 		display:none;
