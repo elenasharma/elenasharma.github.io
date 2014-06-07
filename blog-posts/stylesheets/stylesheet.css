@@ -23,9 +23,10 @@ a:hover {
 }*/
 
 nav ul {
-	background:rgba(#EDFFF6, 0.9);
+	background:#EDFFF6;
 	border-radius:10px;
 	display:inline-table;
+	font-weight:bold;
 	list-style:none;
 	padding:0 0;
 	position:relative;
@@ -59,7 +60,7 @@ nav ul {
 			}
 
 				nav ul ul li a:hover {
-					color:#A3C2C2;
+					color:#CCFFE6;
 				}
 
 	nav ul li {
