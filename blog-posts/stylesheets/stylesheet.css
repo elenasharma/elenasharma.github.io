@@ -12,7 +12,7 @@ template.html {property: stylesheet.css}
 	width:300px;
 }
 
-a:link {
+/*a:link {
 	color:#476B6B;
 	text-decoration:none;
 }
@@ -20,7 +20,39 @@ a:link {
 a:hover {
 	color:#A3C2C2;
 	background-color:#E0EBEB;
+}*/
+
+nav ul {
+	background:#E6FFFF;
+	position:relative;
 }
+
+	nav ul ul {
+		display:none;
+	}
+
+	nav ul li {
+		float:left;
+	}
+
+		nav ul li:hover {
+			display:block;
+			background:#E0EBEB;
+		}
+
+			nav ul li:hover a {
+				color:#A3C2C2;
+			}
+		nav ul li a {
+			display: block;
+			padding: 25px 40px;
+			color:#476B6B;
+			text-decoration:none;
+		}
+
+
+
+
 
 #navbar {
 	color:#476B6B;
@@ -49,3 +81,5 @@ a:hover {
 	text-align:left;
 	width:500px;
 }
+
+
