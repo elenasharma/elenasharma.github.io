@@ -22,12 +22,15 @@ a:hover {
 	background-color:#E0EBEB;
 }*/
 
+nav {
+	left:0;
+}
+
 nav ul {
 	background:#EDFFF6;
 	border-radius:10px;
 	display:inline-table;
 	font-weight:bold;
-	left:0;
 	list-style:none;
 	padding:0 0;
 	position:relative;
