@@ -23,7 +23,7 @@ a:hover {
 }*/
 
 nav ul {
-	background:#CDFFE6;
+	background:#EDFFF6;
 	border-radius:10px;
 	display:inline-table;
 	list-style:none;
@@ -59,7 +59,7 @@ nav ul {
 			}
 
 				nav ul ul li a:hover {
-					color:#A3C2C2;
+					color:#EDFFF6;
 				}
 
 	nav ul li {
@@ -68,7 +68,7 @@ nav ul {
 
 		nav ul li:hover > ul{
 			display:block;
-			background:#E0EBEB;
+			background:#EDFFF6;
 		}
 
 			nav ul li:hover a {
