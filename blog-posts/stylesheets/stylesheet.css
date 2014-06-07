@@ -24,7 +24,7 @@ a:hover {
 
 nav ul {
 	background:#E6FFFF;
-	border-radius:10px;
+/*	border-radius:10px;*/
 	display:inline-table;
 	list-style:none;
 	padding:0 20px;
@@ -80,9 +80,6 @@ nav ul {
 			color:#476B6B;
 			text-decoration:none;
 		}
-
-
-
 
 
 #navbar {
