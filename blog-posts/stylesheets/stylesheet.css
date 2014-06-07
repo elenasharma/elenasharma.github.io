@@ -24,6 +24,7 @@ a:hover {
 
 nav {
 	left:0;
+	position:fixed;
 }
 
 nav ul {
