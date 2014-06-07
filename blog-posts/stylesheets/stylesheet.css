@@ -12,44 +12,17 @@ template.html {property: stylesheet.css}
 	width:300px;
 }
 
-#navigation {
-position: fixed;
-top: 0;
-width: 100%;
-color: #ffffff;
-height: 35px;
-text-align: center;
-padding-top: 15px;
-/* Adds shadow to the bottom of the bar */
--webkit-box-shadow: 0px 0px 8px 0px #000000;
--moz-box-shadow: 0px 0px 8px 0px #000000;
-box-shadow: 0px 0px 8px 0px #000000;
-/* Adds the transparent background */
-background-color: rgba(1, 1, 1, 0.8);
-color: rgba(1, 1, 1, 0.8);
-}
-
-#navigation a {
-font-size: 14px;
-padding-left: 15px;
-padding-right: 15px;
-color: white;
-text-decoration: none;
-}
-
-#navigation a:hover {
-color: grey;
-} 
-
-/*#navbar {
+#navbar {
 	color:#476B6B;
 	font-weight:bold;
 	margin-left:auto;
 	margin-right:auto;
-	width:750px;
+	position:fixed;
+	top:0px;
+	/*width:750px;*/
 }
 
-#bar {
+/*#bar {
 	background-color:#476B6B;
 	height:10px;
 	width:800px;
