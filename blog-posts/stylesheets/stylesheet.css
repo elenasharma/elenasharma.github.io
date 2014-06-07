@@ -22,14 +22,6 @@ a:hover {
 	background-color:#E0EBEB;
 }*/
 
-#topimg {
-	display:none;
-}
-
-#topimg:hover > nav{
-	display:block;
-}
-
 nav {
 	position:fixed;
 }
