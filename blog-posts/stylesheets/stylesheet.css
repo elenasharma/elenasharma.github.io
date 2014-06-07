@@ -8,6 +8,7 @@ template.html {property: stylesheet.css}
 }
 
 nav {
+	left:80px;
 	position:fixed;
 	top:0;
 }
@@ -49,7 +50,7 @@ nav ul {
 			}
 
 				nav ul ul li a:hover {
-					background-color:#CCFFE6;
+					background-color:#B2CCFF;
 				}
 
 	nav ul li {
@@ -61,7 +62,7 @@ nav ul {
 		}
 
 			nav ul li:hover a {
-				color:#000072;
+				color:#3333FF;
 			}
 
 		nav ul li a {
