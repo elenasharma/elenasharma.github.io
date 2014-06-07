@@ -45,10 +45,10 @@ nav ul {
 			nav ul ul li a {
 				padding:6px;
 				color:#476B6B;
+				background-color:#FFFFFF;
 			}
 
 				nav ul ul li a:hover {
-					color:#A3C2C2;
 					background-color:#CCFFE6;
 				}
 
@@ -61,7 +61,7 @@ nav ul {
 		}
 
 			nav ul li:hover a {
-				color:#EDFFF6;
+				color:#000072;
 			}
 
 		nav ul li a {
