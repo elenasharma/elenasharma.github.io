@@ -13,7 +13,7 @@ nav {
 }
 
 nav ul {
-	background-color:rgba(#FFFFFF, 0.8);
+	background-color:#FFFFFF;
 	border-radius:10px;
 /*	display:inline-table;*/
 	font-weight:bold;
