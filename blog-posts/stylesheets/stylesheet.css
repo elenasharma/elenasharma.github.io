@@ -39,7 +39,7 @@ nav ul {
 
 	nav ul ul {
 		display:none;
-		background:#E0EBEB;
+		background:#CCFFE6;
 		border-radius: 0px;
 		padding:0;
 		position:absolute;
@@ -68,7 +68,7 @@ nav ul {
 
 		nav ul li:hover > ul{
 			display:block;
-			background:#CCFFE6;
+			background:#EDFFF6;
 		}
 
 			nav ul li:hover a {
