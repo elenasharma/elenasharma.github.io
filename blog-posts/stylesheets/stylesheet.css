@@ -1,7 +1,7 @@
 template.html {property: stylesheet.css}
 
 #wrap {
-	font-family: Baskerville, serif;;
+	font-family: Baskerville, serif;
 	width:800px;
 	margin:0 auto;
 	text-align:center;
@@ -25,7 +25,8 @@ template.html {property: stylesheet.css}
 }
 
 .content {
-	float:center;
+	font-family:Baskerville, serif;
+	text-align:center;
 	width:600px;
 }
 
