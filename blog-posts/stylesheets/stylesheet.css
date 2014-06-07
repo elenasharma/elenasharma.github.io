@@ -7,10 +7,10 @@ template.html {property: stylesheet.css}
 	text-align:center;
 }
 
-#topimg {
+/*#topimg {
 	float:center;
 	width:300px;
-}
+}*/
 
 /*a:link {
 	color:#476B6B;
@@ -23,8 +23,8 @@ a:hover {
 }*/
 
 nav ul {
-	background:#E6FFFF;
-/*	border-radius:10px;*/
+	background:#CDFFE6;
+	border-radius:10px;
 	display:inline-table;
 	list-style:none;
 	padding:0 0;
