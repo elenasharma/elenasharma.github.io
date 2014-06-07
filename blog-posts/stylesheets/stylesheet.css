@@ -1,17 +1,24 @@
 template.html {property: stylesheet.css}
 
 #wrap {
+	font-family: Baskerville, serif;;
 	width:800px;
 	margin:0 auto;
 }
 
+#topimg {
+	float:center;
+	width:300px;
+}
+
 #navbar {
 	color:#476B6B;
+	font-weight:bold;
 	width:750px;
 }
 
 #bar {
-	color:#476B6B;
+	background-color:#476B6B;
 	height:10px;
 	width:800px;
 }
