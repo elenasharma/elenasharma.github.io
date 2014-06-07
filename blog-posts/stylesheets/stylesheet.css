@@ -54,12 +54,11 @@ nav ul {
 		nav ul ul li {
 			float:none;
 			border-top: 1px solid #6b727c;
-			padding: 10px;
 			position:relative;
 		}
 
 			nav ul ul li a {
-				padding:15px 40px;
+				padding:10px;
 				color:#476B6B;
 			}
 
