@@ -29,7 +29,7 @@ nav {
 nav ul {
 	background:#EDFFF6;
 	border-radius:10px;
-	display:inline-table;
+/*	display:inline-table;*/
 	font-weight:bold;
 	list-style:none;
 	padding:0 0;
