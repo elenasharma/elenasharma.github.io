@@ -31,22 +31,13 @@ a:hover {
 	position:fixed;
 }
 
-/*#bar {
+#bar {
 	background-color:#476B6B;
-	height:10px;
-	width:960px;
-}*/
+}
 
 .black {
 	color:black;
 }
-/*#sideimg {
-	position: fixed;
-	left:0;
-	top:0;
-	bottom:0;
-	overflow:auto;
-}*/
 
 .content {
 	float:center;
@@ -55,10 +46,4 @@ a:hover {
 	margin-right:auto;
 	text-align:left;
 	width:500px;
-}
-
-#footer {
-	bottom:0;
-	position:fixed;
-	width:100%;
 }
