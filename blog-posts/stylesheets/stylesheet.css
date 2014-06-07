@@ -7,6 +7,7 @@ template.html {property: stylesheet.css}
 	text-align:center;
 }
 
+/*navigation bar formatting*/
 nav {
 	left:85px;
 	position:fixed;
@@ -16,7 +17,6 @@ nav {
 nav ul {
 	background-color:#FFFFFF;
 	border-radius:10px;
-/*	display:inline-table;*/
 	font-weight:bold;
 	list-style:none;
 	padding:0 0;
@@ -31,7 +31,6 @@ nav ul {
 
 	nav ul ul {
 		display:none;
-/*		background:#CCFFE6;*/
 		border-radius: 0px;
 		padding:0;
 		position:absolute;
@@ -82,13 +81,8 @@ nav ul {
 	top:0;
 }
 
-#bar {
-	background-color:#476B6B;
-	height:3px;
-}
-
 h2 {
-	left:70;
+	left:60;
 }
 
 .black {
