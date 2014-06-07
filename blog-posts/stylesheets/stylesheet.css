@@ -12,10 +12,21 @@ template.html {property: stylesheet.css}
 	width:300px;
 }
 
+a:link {
+	color:#476B6B;
+	text-decoration:none;
+}
+
+a:hover {
+	color:#A3C2C2;
+	background-color:#E0EBEB;
+}
+
 #navbar {
 	color:#476B6B;
 	font-weight:bold;
-	left:0;
+	left:40;
+	margin-top:200px;
 	position:fixed;
 }
 
