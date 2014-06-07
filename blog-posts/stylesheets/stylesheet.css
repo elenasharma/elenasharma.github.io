@@ -30,7 +30,7 @@ nav ul {
 	left:0;
 	list-style:none;
 	padding:0 0;
-/*	position:relative;*/
+	position:relative;
 }
 
 	nav ul:after {
