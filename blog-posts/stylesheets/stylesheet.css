@@ -23,12 +23,11 @@ a:hover {
 }*/
 
 nav {
-	left:0;
 	position:fixed;
 }
 
 nav ul {
-	background:#EDFFF6;
+	background:rgba(#EDFFF6, 0.8);
 	border-radius:10px;
 	display:inline-table;
 	font-weight:bold;
