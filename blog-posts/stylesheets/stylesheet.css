@@ -1,1 +1,23 @@
 template.html {property: stylesheet.css}
+
+#wrap {
+	width:800px;
+	margin:0 auto;
+}
+
+#navbar {
+	color:#476B6B;
+	width:750px;
+}
+
+#bar {
+	color:#476B6B;
+	height:10px;
+	width:800px;
+}
+
+.content {
+	float:center;
+	width:600px;
+}
+
