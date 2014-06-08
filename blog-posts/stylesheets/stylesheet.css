@@ -115,4 +115,7 @@ h2 {
 	color:#85ADFF;
 }
 
+.italicizehover:hover {
+	font-weight:italic;
+}
 
