@@ -98,6 +98,10 @@ h2 {
 	width:500px;
 }
 
+.postimg {
+	width:700px;
+}
+
 .postlink:link {
 	color:#000000;
 	font-weight:bold;
