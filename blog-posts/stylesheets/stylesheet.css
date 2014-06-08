@@ -115,7 +115,17 @@ h2 {
 	color:#85ADFF;
 }
 
+.italicizehover:link {
+	color:#000000;
+	text-decoration:none;
+}
+
+.italicizehover:visited {
+	color:#000000;
+	text-decoration:none;
+}
+
 .italicizehover:hover {
-	font-weight:italic;
+	font-style:italic;
 }
 
