@@ -98,6 +98,12 @@ h2 {
 	width:500px;
 }
 
+.quotation {
+	width:400px;
+	font-style:italic;
+	font-weight:bold;
+}
+
 .postimg {
 	width:700px;
 }
