@@ -98,6 +98,11 @@ h2 {
 	width:500px;
 }
 
+.thesis {
+	font-style:italic;
+	font-weight:bold;
+}
+
 .quotation {
 	width:400px;
 	font-style:italic;
