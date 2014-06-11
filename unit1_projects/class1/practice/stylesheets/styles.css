@@ -2,11 +2,11 @@
 body {
   background-color: rgb(241, 241, 241);
   font-family:Courier, monospace;
-  font-size: 16px;
+  font-size: 1em;
   font-weight: 300;
   line-height: 1.2em;
   margin: 0px auto;
-  min-width: 960px;
+  min-width: 450px;
   width: 100%;
 }
 
@@ -64,6 +64,7 @@ nav li {
 }
 nav li a {
   color: #fff;
+  font-size:1em;
   margin: 0 10px;
   padding: 5px 10px;
   text-decoration: none;
@@ -127,9 +128,9 @@ main section {
   position: relative;
 }
 main div.wrapper{
-    width: 100%;
-    max-width:1400px;
-    margin: 0 auto;
+  width: 100%;
+  max-width:1400px;
+  margin: 0 auto;
 }
 
 main section:after {
