@@ -146,7 +146,7 @@ font-style:italic;
 }
 
 /*footer stuff*/
-footer {
+/*footer {
   background-color: #00665F;
 }
 
@@ -154,11 +154,11 @@ footer nav {
   float: center;
   font-size: 1.1em;
   margin: 10px;
-}
+}*/
 
-footer:after {
+/*footer:after {*/
   /* clearfix hack */
-  content: "";
+/*  content: "";
   display: table;
   clear: both;
-}
+}*/
