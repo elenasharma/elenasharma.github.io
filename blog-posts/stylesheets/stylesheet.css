@@ -4,6 +4,7 @@ template.html {property: stylesheet.css}
 font-family: Baskerville, serif;
 width:800px;
 margin:0 auto;
+margin-bottom:20px;
 text-align:center;
 }
 
