@@ -143,3 +143,14 @@ text-decoration:none;
 .italicizehover:hover {
 font-style:italic;
 }
+
+/*footer stuff*/
+footer {
+	text-align:center;
+	background:black;
+	padding:15px;
+}
+
+footer a {
+	display:inline;
+}
