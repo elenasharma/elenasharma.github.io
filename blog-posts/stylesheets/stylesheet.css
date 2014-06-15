@@ -1,4 +1,4 @@
-template.html {property: stylesheet.css}
+index.html {property: stylesheet.css}
 
 #wrap {
 font-family: Baskerville, serif;
@@ -147,13 +147,18 @@ font-style:italic;
 
 /*footer stuff*/
 footer {
-	text-align:center;
-	background:black;
-	padding:15px;
-	bottom:0;
-	position:fixed;
+  background-color: #00665F;
 }
 
-footer a {
-	display:inline;
+footer nav {
+  float: center;
+  font-size: 1.1em;
+  margin: 10px;
+}
+
+footer:after {
+  /* clearfix hack */
+  content: "";
+  display: table;
+  clear: both;
 }
