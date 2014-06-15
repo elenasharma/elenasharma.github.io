@@ -149,6 +149,8 @@ footer {
 	text-align:center;
 	background:black;
 	padding:15px;
+	bottom:0;
+	position:fixed;
 }
 
 footer a {
