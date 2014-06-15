@@ -1,2 +1,79 @@
 index.html {property: indexstylesheet.css}
 
+header {
+	width:100%;
+	background-color:black;
+}
+
+nav {
+	left:85px;
+	position:fixed;
+	top:0;
+}
+
+nav ul {
+	background-color:#FFFFFF;
+	border-radius:10px;
+	font-weight:bold;
+	list-style:none;
+	padding:0 0;
+	position:relative;
+}
+
+	nav ul:after {
+		content: "";
+		clear: both;
+		display:block;
+	}
+
+	nav ul ul {
+		display:none;
+		border-radius: 0px;
+		padding:0;
+		position:absolute;
+		top:100%;
+	}
+
+		nav ul ul li {
+			float:none;
+			position:relative;
+		}
+
+			nav ul ul li a {
+				padding:6px;
+				color:#476B6B;
+				background-color:#FFFFFF;
+			}
+
+				nav ul ul li a:hover {
+					background-color:#CEDEFF;
+				}
+
+	nav ul li {
+		float:left;
+	}
+
+		nav ul li:hover > ul{
+			display:block;
+		}
+
+			nav ul li:hover a {
+				color:#85ADFF;
+			}
+
+		nav ul li a {
+			display: block;
+			padding: 5px 15px;
+			color:#000000;
+			text-decoration:none;
+		}
+
+
+#navbar {
+	color:#476B6B;
+	font-weight:bold;
+/*	left:0;
+	margin-left:70px;
+	position:fixed;
+	top:0;*/
+}
