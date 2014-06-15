@@ -1,164 +1,146 @@
-index.html {property: stylesheet.css}
+template.html {property: stylesheet.css}
 
 #wrap {
-font-family: Baskerville, serif;
-width:800px;
-margin:0 auto;
-margin-bottom:20px;
-text-align:center;
+	font-family: Baskerville, serif;
+	width:800px;
+	margin:0 auto;
+	text-align:center;
 }
 
 /*navigation bar formatting*/
 nav {
-left:85px;
-position:fixed;
-top:0;
+	left:85px;
+	position:fixed;
+	top:0;
 }
 
 nav ul {
-background-color:#FFFFFF;
-border-radius:10px;
-font-weight:bold;
-list-style:none;
-padding:0 0;
-position:relative;
+	background-color:#FFFFFF;
+	border-radius:10px;
+	font-weight:bold;
+	list-style:none;
+	padding:0 0;
+	position:relative;
 }
 
-nav ul:after {
-content: "";
-clear: both;
-display:block;
-}
+	nav ul:after {
+		content: "";
+		clear: both;
+		display:block;
+	}
 
-nav ul ul {
-display:none;
-border-radius: 0px;
-padding:0;
-position:absolute;
-top:100%;
-}
+	nav ul ul {
+		display:none;
+		border-radius: 0px;
+		padding:0;
+		position:absolute;
+		top:100%;
+	}
 
-nav ul ul li {
-float:none;
-position:relative;
-}
+		nav ul ul li {
+			float:none;
+			position:relative;
+		}
 
-nav ul ul li a {
-padding:6px;
-color:#476B6B;
-background-color:#FFFFFF;
-}
+			nav ul ul li a {
+				padding:6px;
+				color:#476B6B;
+				background-color:#FFFFFF;
+			}
 
-nav ul ul li a:hover {
-background-color:#CEDEFF;
-}
+				nav ul ul li a:hover {
+					background-color:#CEDEFF;
+				}
 
-nav ul li {
-float:left;
-}
+	nav ul li {
+		float:left;
+	}
 
-nav ul li:hover > ul{
-display:block;
-}
+		nav ul li:hover > ul{
+			display:block;
+		}
 
-nav ul li:hover a {
-color:#85ADFF;
-}
+			nav ul li:hover a {
+				color:#85ADFF;
+			}
 
-nav ul li a {
-display: block;
-padding: 5px 15px;
-color:#000000;
-text-decoration:none;
-}
+		nav ul li a {
+			display: block;
+			padding: 5px 15px;
+			color:#000000;
+			text-decoration:none;
+		}
 
 
 #navbar {
-color:#476B6B;
-font-weight:bold;
-left:0;
-margin-left:70px;
-position:fixed;
-top:0;
+	color:#476B6B;
+	font-weight:bold;
+	left:0;
+	margin-left:70px;
+	position:fixed;
+	top:0;
 }
 
 h2 {
-left:60;
+	left:60;
 }
 
 .black {
-color:black;
+	color:black;
 }
 
 .content {
-float:center;
-font-family:Baskerville, serif;
-margin-left:auto;
-margin-right:auto;
-text-align:left;
-width:500px;
+	float:center;
+	font-family:Baskerville, serif;
+	margin-left:auto;
+	margin-right:auto;
+	text-align:left;
+	width:500px;
 }
 
 .thesis {
-font-style:italic;
-font-weight:bold;
+	font-style:italic;
+	font-weight:bold;
 }
 
 .quotation {
-width:400px;
-font-style:italic;
-font-weight:bold;
+	width:400px;
+	font-style:italic;
+	font-weight:bold;
 }
 
 .postimg {
-width:700px;
+	width:700px;
 }
 
 .postlink:link {
-color:#000000;
-font-weight:bold;
-text-decoration:none;
+	color:#000000;
+	font-weight:bold;
+	text-decoration:none;
 }
 
 .postlink:visited {
-color:#000000;
-font-weight:bold;
-text-decoration:none;
+	color:#000000;
+	font-weight:bold;
+	text-decoration:none;
 }
 
 .postlink:hover {
-font-weight:bold;
-color:#85ADFF;
+	font-weight:bold;
+	color:#85ADFF;
 }
 
 .italicizehover:link {
-color:#000000;
-text-decoration:none;
+	color:#000000;
+	text-decoration:none;
 }
 
 .italicizehover:visited {
-color:#000000;
-text-decoration:none;
+	color:#000000;
+	text-decoration:none;
 }
 
 .italicizehover:hover {
-font-style:italic;
+	font-style:italic;
 }
 
-/*footer stuff*/
-/*footer {
-  background-color: #00665F;
-}
-
-footer nav {
-  float: center;
-  font-size: 1.1em;
-  margin: 10px;
-}*/
-
-/*footer:after {*/
-  /* clearfix hack */
-/*  content: "";
-  display: table;
-  clear: both;
-}*/
