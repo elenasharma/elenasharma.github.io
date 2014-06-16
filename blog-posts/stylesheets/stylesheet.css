@@ -24,11 +24,11 @@ template.html {property: stylesheet.css}
 nav {
 	left:85px;
 	position:fixed;
-	top:0;
+	top:150;
 }
 
 nav ul {
-	background-color:#FFFFFF;
+	background-color:#E6E6E6;
 	border-radius:10px;
 	font-weight:bold;
 	list-style:none;
