@@ -166,3 +166,14 @@ footer {
 	position:fixed;
 	bottom:0;
 }
+
+footer:before{
+    width: 100%;
+    height: inherit;
+    display: block;
+    background: black;
+    content: "";
+    position: fixed;
+    left: 0;
+    z-index: -1;
+}
