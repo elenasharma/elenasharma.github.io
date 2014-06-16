@@ -24,7 +24,7 @@ template.html {property: stylesheet.css}
 nav {
 	left:85px;
 	position:fixed;
-	top:150;
+	margin-top:150px;
 }
 
 nav ul {
