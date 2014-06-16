@@ -162,7 +162,11 @@ h2 {
 footer {
 	height:30px;
 	left:0px;
-	background-color:rgba(#000000, 0.7);
+	background-color:#000000;
 	position:fixed;
 	bottom:0;
+}
+
+footer nav ul li a {
+	
 }
