@@ -160,9 +160,9 @@ h2 {
 
 
 footer {
-	height:20px;
-	width:100%;
-	background-color:black;
+	height:30px;
+	left:0px;
+	background-color:rgba(#000000, 0.7);
 	position:fixed;
 	bottom:0;
 }
