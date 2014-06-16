@@ -24,6 +24,7 @@ template.html {property: stylesheet.css}
 nav {
 	left:85px;
 	position:fixed;
+	top:0;
 	margin-top:150px;
 }
 
