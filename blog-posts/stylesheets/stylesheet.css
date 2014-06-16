@@ -43,7 +43,7 @@ nav ul {
 
 	nav ul ul {
 		display:none;
-		border-radius: 10px;
+		border-radius: 0px;
 		padding:0;
 		position:absolute;
 		top:100%;
