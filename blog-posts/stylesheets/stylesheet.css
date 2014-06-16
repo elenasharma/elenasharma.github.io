@@ -9,12 +9,12 @@ template.html {property: stylesheet.css}
 }
 
 .img-circular {
-	width:400px;
-	height:400px;
+	width:300px;
+	height:300px;
 	background-image: url('http://media.tumblr.com/3bc7988bc1387ed66dd517067ba8d2cd/tumblr_inline_mihk67hbQ21qz4rgp.jpg');
 	background-size:cover;
 	display:block;
-	border-radius:100px;
+	border-radius:50%;
 	-webkit-border-radius:100px;
 	-moz-border-radius:100px;
 }
