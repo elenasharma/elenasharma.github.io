@@ -16,8 +16,6 @@ template.html {property: stylesheet.css}
 	display:block;
 	border-radius:50%;
 	margin-top:200px;
-/*	-webkit-border-radius:100px;
-	-moz-border-radius:100px;*/
 }
 
 /*navigation bar formatting*/
@@ -25,7 +23,7 @@ nav {
 	left:85px;
 	position:fixed;
 	top:0;
-	margin-top:150px;
+	margin-top:100px;
 }
 
 nav ul {
@@ -59,7 +57,7 @@ nav ul {
 			nav ul ul li a {
 				padding:6px;
 				color:#476B6B;
-				background-color:#FFFFFF;
+				background-color:#E6E6E6;
 			}
 
 				nav ul ul li a:hover {
