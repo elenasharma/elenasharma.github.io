@@ -195,14 +195,18 @@ footer #social_icons a {
 	margin-top:5px;
 }
 
+#twitter-icon {
+	margin-right:4px;
+}
+
 #googleplus-icon {
-	margin-right:6px;
+	margin-right:10px;
 }
 
 #github-icon {
-	margin-right:10px;
+	margin-right:14px;
 }
 
 #linkedin-icon {
-	margin-right:10px;
+	margin-right:14px;
 }
