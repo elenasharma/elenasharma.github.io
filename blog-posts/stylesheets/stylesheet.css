@@ -182,7 +182,7 @@ footer #social_icons {
 	font-size:1.6em;
 	text-align:center;
 	display:inline-block;
-	margin-left:650px;
+	margin-left:625px;
 }
 
 footer #social_icons a {
@@ -196,15 +196,15 @@ footer #social_icons a {
 }*/
 
 #googleplus-icon {
-	margin-right:4px;
+	margin-right:6px;
 }
 
 #github-icon {
-	margin-right:7px;
+	margin-right:10px;
 }
 
 #linkedin-icon {
-	margin-right:8px;
+	margin-right:10px;
 }
 
 .screen-reader-text {
