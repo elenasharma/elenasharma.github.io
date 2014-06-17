@@ -182,12 +182,13 @@ footer #social_icons {
 	font-size:1.6em;
 	text-align:center;
 	display:inline-block;
-	margin-left:850px;
+	margin-left:650px;
 }
 
 footer #social_icons a {
 	color:#ffffff;
 	display:inline-block;
+	margin-top:5px;
 }
 
 /*.icon-alone {
