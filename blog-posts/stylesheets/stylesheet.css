@@ -182,7 +182,7 @@ footer #social_icons {
 	font-size:1.6em;
 	text-align:center;
 	display:inline-block;
-	margin-left:625px;
+	margin-left:640px;
 }
 
 footer #social_icons a {
@@ -190,10 +190,6 @@ footer #social_icons a {
 	display:inline-block;
 	margin-top:5px;
 }
-
-/*.icon-alone {
-	display:inline-block;
-}*/
 
 #googleplus-icon {
 	margin-right:6px;
@@ -205,10 +201,4 @@ footer #social_icons a {
 
 #linkedin-icon {
 	margin-right:10px;
-}
-
-.screen-reader-text {
-	position:absolute;
-	top: -9999px;
-	left: -9999px;
 }
