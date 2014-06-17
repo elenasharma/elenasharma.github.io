@@ -191,8 +191,7 @@ footer #social_icons a {
 
 .icon-alone {
 	display:inline-block;
-	margin-left:3px;
-	margin-right:3px;
+	margin:auto;
 }
 
 .screen-reader-text {
