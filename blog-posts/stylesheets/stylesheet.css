@@ -178,6 +178,15 @@ footer:before{
     z-index: -1;
 }
 
+footer #social_icons {
+	font-size:1.8em;
+	text-align:center;
+	display:inline-block;
+}
+
+footer #social_icons a {
+	color:#ffffff;
+}
 .icon-alone {
 	display:inline-block;
 }
