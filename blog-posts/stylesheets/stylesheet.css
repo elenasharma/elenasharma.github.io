@@ -179,9 +179,10 @@ footer:before{
 }
 
 footer #social_icons {
-	font-size:1.8em;
+	font-size:1.6em;
 	text-align:center;
 	display:inline-block;
+	margin-left:450px;
 }
 
 footer #social_icons a {
