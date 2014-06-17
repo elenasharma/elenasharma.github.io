@@ -20,6 +20,7 @@ template.html {property: stylesheet.css}
 
 #blogimage {
 	margin-top:120px;
+	margin-bottom:0px;
 }
 
 /*navigation bar formatting*/
