@@ -187,11 +187,15 @@ footer #social_icons {
 
 footer #social_icons a {
 	color:#ffffff;
+	display:inline-block;
 }
 
-.icon-alone {
+/*.icon-alone {
 	display:inline-block;
-	margin:auto;
+}*/
+
+#googleplus-icon, #github-icon, #linkedin-icon, #email-icon {
+	margin-right:4px;
 }
 
 .screen-reader-text {
