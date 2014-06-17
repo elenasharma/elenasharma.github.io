@@ -5,18 +5,8 @@ template.html {property: stylesheet.css}
 	width:800px;
 	margin:0 auto;
 	text-align:center;
-	/*margin-bottom:40px;*/
+	margin-bottom:40px;
 }
-
-/*.img-circular {
-	width:300px;
-	height:300px;
-	background-image: url('http://media.tumblr.com/3bc7988bc1387ed66dd517067ba8d2cd/tumblr_inline_mihk67hbQ21qz4rgp.jpg');
-	background-size:cover;
-	display:block;
-	border-radius:50%;
-	margin-top:200px;
-}*/
 
 #blogimage {
 	margin-top:120px;
