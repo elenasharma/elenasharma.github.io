@@ -120,6 +120,10 @@ h2 {
 	font-weight:bold;
 }
 
+.postcode {
+	background-color:#D6EBFF;
+}
+
 .postimg {
 	width:700px;
 }
