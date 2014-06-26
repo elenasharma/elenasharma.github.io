@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>DBC Blog</title>
+	<link rel="stylesheet" type="text/css" href="/blog-posts/stylesheets/stylesheet.css"/>
+	<link href="//netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
+</head>
+<body>
+	<div id="wrap">	
+		<div id="navbar">
+			<img id="blogimage" src="http://i1060.photobucket.com/albums/t460/Elena_Sharma/Untitled_zpsf032c5e0.png">
+			<h2><span class="black"><a class="italicizehover" href="../index.html">about elena</a></span></h2>
+			<nav>
+				<ul>
+					<li><a href="../index.html">home</a></li>
+					<li><a href="#">cultural</a>
+						<ul>
+							<li><a href="../blog-posts/week1_cultural.html">week 1</a></li>
+							<li><a href="../blog-posts/week3_cultural.html">week 3</a></li>
+							<li><a href="../blog-posts/week4_cultural.html">week 4</a></li>
+						</ul>
+						</li>
+					<li><a href="#">technical</a>
+						<ul>
+							<li><a href="../blog-posts/week1_posts.html">week 1</a></li>
+							<li><a href="../blog-posts/week2_technical.html">week 2</a></li>
+							<li><a href="../blog-posts/week3_technical.html">week 3</a></li>
+							<li><a href="../blog-posts/week4_technical.html">week 4</a></li>
+						</ul>
+					</li>
+				</ul>
+			</nav>		
+		</div>	
+		</div>
+		<div class="content">
+			<h1>getting loopy with Ruby!</h1>
+			<p>Learning how to loop in a programming language is a must for any developer because loops are so powerful - they apply some method or block  of code a specified number of times, allowing for counting through sets of information, for instance.</p>
+			<p>The main Ruby loop methods are <b>while</b>, <b>for</b>, and <b>until</b>.</p>
+			<p><b><i>while</i></b> loops, such as </p>
+			<p>while (x == y) do<br>
+				puts 'x is still equal to y'<br>
+				end
+			</p>
+			<p>carry out the action (here, the 'puts') as long as the condition (here, 'x != y') is true.</p>
+			<p><b><i>for</i></b> loops, like</p>
+			<p>for i in 0..10<br>
+				puts i<br>
+				end
+			</p>
+			<p>are given a set range (here, the range from 0 to 10) that determines the number of times the code (here, 'puts i') will be executed.</p>
+			<p><b><i>until</i></b> loops, like this example,</p>
+			<p>until (x == y) do<br>
+				puts 'x is still NOT equal to y'<br>
+				end
+			</p>
+			<p>are somewhat like while loops except instead of executing as long as the condition is true, until loops execute as long as the conditional (here 'x == y') is <i>false</i>.</p>
+			<p>There are also other looping methods, such as .times and .each - code like</p>
+			<p>3.times do</p> 
+			<p>will, as it might seem it should, execute whatever it's doing 3 times, while</p>
+			<p>(somearray).each do |n|</p>
+			<p>will execute its code for each of the members of the input, which can be any kind of list of variables.</p>
+			<p>So how should you choose between all these types of loops? It can seem a little overwhelming, but it helps to think through how you want to use the loops in simple terms. Say you have a list of 10 items and you want to do something to all of those items. Using .each would be the best option here. But what if you wanted to use only half of those? Then you might want to say '5.times do' (your code).</p>
+			<p>When it comes to for, while, and until, let's think of some other examples. Say you have a program that outputs grades, given a list of student grades in increasing order, but you only want to output the grades that are below 70 (so you can send them to the students or parents). In this case, you could use 'until grade == 70' OR 'while grade != 70'. Until and while should be used in cases where you have some sort of cutoff for your range and they can be used pretty interchangeably, in my opinion, depending on if you like defining things by what they are or what they are NOT.</p>
+			<p>As for <i>for</i>, let's say again that we have a set of student grades in increasing order and that we have a function that is supposed to output the middle 50% (and we know the number of grades we have, like 20). For can get at specific ranges within a list, so think 'for i in 5..15'.</p>
+			<p>Hopefully this was a helpful introduction to some of the looping methods in Ruby! I'm still trying to figure out when to use these myself, but I think it's fairly straightforward if you write good pseudocode and really ask yourself: am I trying to do this x number of TIMES? Do I want to do this to EACH item in a list? Do I want to do something UNTIL a certain point or WHILE some condition is true? Or do I want to do something FOR a specific range of items? (okay, that last bit was cheesy, but again, hopefully good summary).</p>
+			<p>Happy looping, everyone!</p>
+		</div>
+		<footer>
+			<div id="social_icons">
+				<a href="http://twitter.com/300watts" id="twitter-icon">
+					<i class="fa fa-twitter"></i></a>
+				<a href="https://plus.google.com/u/0/108180350852096402054/posts/p/pub" id="googleplus-icon">
+					<i class="fa fa-google"></i>
+				<a href="http://github.com/elenasharma" id="github-icon">
+					<i class="fa fa-github"></i>
+				<a href="https://www.linkedin.com/profile/view?id=259321886&trk=nav_responsive_tab_profile_pic" id="linkedin-icon">
+					<i class="fa fa-linkedin"></i>
+				<a href="mailto:elenasharma3@gmail.com" id="email-icon">
+					<i class="fa fa-envelope-o"></i>
+				</div>
+		</footer>
+	</body>
+</html>
