@@ -1,0 +1,17 @@
+---
+layout: post
+title: "classes vs. modules"
+date:   2014-07-13 8:22:00
+---
+<p>So as beginner Rubyists, we've started to work with classes, figure out where their methods and variables begin and end, how to play with them, and even how to create our own. But wait! Classes aren't the only structures in Ruby that hold methods - this new world is much bigger than that. There's also these things called <font face="courier">modules</font> that seem pretty important to know about. So without further ado, what are modules?</p>
+<h3><i>modules...</i></h3>
+<p>According to the <a class="postlink" href="http://www.ruby-doc.org/core-2.1.2/Module.html">Ruby docs</a>, a <font face="courier">Module</font> is a "collection of methods and constants" and the methods could be instance methods - which would appear as methods in a class - or module methods, which do not appear as methods in a class. So what does it mean that a <font face="courier">Module</font> can have these module methods, that don't even need to be inside an object, unlike the methods we've seen so far with <font face="courier">Classes</font>?</p>
+<p>Modules have a different purpose than classes. When we work with classes, we are using them to create and modify objects, but modules are about functions instead of objects. By that I mean, what if you wanted to use one method - maybe one that will output a 'Good job!' to the user as they progress through different levels of an app. A module can be used across multiple classes or apps. To get an example of how modules might be formatted, let's create this imaginary module:</p>
+<img src="http://i1060.photobucket.com/albums/t460/Elena_Sharma/ScreenShot2014-07-13at120206PM_zps6b7527f1.png">
+<p>Here we've created a module called GoodJob with two functions, greeting and goodbye, and three variables: MSG1, MSG2, and MSG3. Let's say we've saved the file as goodjob.rb - then how to access what's inside the module?</p>
+<img src="http://i1060.photobucket.com/albums/t460/Elena_Sharma/ScreenShot2014-07-13at120610PM_zps480757c2.png">
+<p>We can access the file itself by requiring 'goodjob'; then as you can see, functions are called as might be expected and variables are accessed using a double-colon.</p>
+<h3><i>...compared to classes</i></h3>
+<p>So, how does this compare to a class? Well for one thing, the module can be required across multiple methods or even multiple apps, because its functionality is what is important. Classes are about instances of its objects or instantiation - the making of objects. In a way, classes are the way to create objects, which are like miniature modules since they can contain variables and functions. And, when an object is instantiated, it is essentially <i>required</i>.</p>
+<p>In many ways, then, classes and modules are pretty similar. Why would we use one over the other? <b>Classes do not interfere with other classes</b>, so a ton of classes can be written and used for a program. Only one module can be required for a program, however. So classes, as the roadmaps for creating the mini-modules of objects, might allow a litle more flexibility for getting multiple things done on a smaller scale.</p>
+<p><small>(for further reading, check out <a class="postlink" href="http://ruby.learncodethehardway.org/book/ex40.html">this lesson from learncodethehardway</a> - it really helped me learn about modules and classes AND it has some great examples and exercises to try out!)</small></p>

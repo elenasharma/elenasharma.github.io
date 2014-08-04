@@ -1,0 +1,39 @@
+---
+layout: post
+title: "my values"
+date:   2014-07-20 13:36:00
+---
+
+<h3>exploring my values</h3>
+<p>The times I've been happiest I've felt a combination of a lot of emotions or other feelings, but mostly: 
+	<ul>
+		<li>Achievement</li>
+		<li>Close relationships</li>
+		<li>Confidence</li>
+		<li>Courage</li>
+		<li>Feminism</li>
+		<li>Freedom</li>
+		<li>Growth</li>
+		<li>Honesty</li>
+		<li>Loyalty</li>
+		<li>Self-knowledge</li>
+	</ul>
+</p>
+<p>Courage is the most important value, I think, because it drives all the other qualities that I value in myself: courage to keep trying, both with goals and relationships, courage to change and grow, courage to be honest and loyal, and the courage to face myself, which is sometimes the most frightening thing of all. Because really self-reflecting, for me, can be scary - I face what I've said or what I've done and it's easy to judge myself or my mistakes - but having the courage to believe that yes, I can do this or I can fix this or I am capable of changing and growing... that's why courage.</p>
+<p>Do I live up to these values? Being honest with myself, this is how I'd rate how much I try to live up to these values, 1 being disagree and 5 being that I agree: 
+	<ul>
+		<li>Achievement - 3</li>
+		<li>Close relationships - 4</li>
+		<li>Confidence - 3</li>
+		<li>Courage - 3</li>
+		<li>Feminism - 5</li>
+		<li>Freedom - 3</li>
+		<li>Growth - 4</li>
+		<li>Honesty - 5</li>
+		<li>Loyalty - 5</li>
+		<li>Self-knowledge - 5</li>
+	</ul>
+</p>
+<p>When I think about my values, especially when I rate how much I think I try to live up to them, I feel like I'm failing at all of them - like they are more goals or wishful thinking than values that really represent who I am. Part of that might be because each person, as they say, is her own worst critic, and I have trouble being extremely confident or declarative about something. For example, when I wrote my 5 for Feminism I worried about confirming the stereotype of the crazed, bra-burning, man-hating fanatical feminist. So maybe my self-knowledge will help me be aware of these feelings when they arise.</p>
+<p>As for how I'll deal with these feelings, I'll just have to take a deep breath and remind myself that all I can do is enough - that there is potential for me to grow and that's a doable thing, not an impossible, scary task. I will remind myself of what I have achieved to remember that I can continue learning and achieving new things. I also will remember to not be too hard on myself when I feel like I'm not learning fast enough, being adventurous enough, or just am not being <i>enough</i> - that everything can be seen as an adventure. I'll end this post with this quote from Ian Fleming which sometimes makes me think, 'Well I am leading a dull life', one of the most soul-crushing feelings - but as I redefine adventure I realize that the narrow definition of it is in fact limiting, keeping me from seeing much more as a type of adventure: </p>
+<p><b><i>Never say 'no' to adventures. Always say 'yes', otherwise you'll lead a very dull life.</i></b></p>

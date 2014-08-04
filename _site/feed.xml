@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Elena&#39;s Blog</title>
+    <description>Thoughts of a web developer-in-training.</description>
+    <link>http://yourdomain.com/</link>
+    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Sun, 03 Aug 2014 21:53:35 -0700</pubDate>
+    <lastBuildDate>Sun, 03 Aug 2014 21:53:35 -0700</lastBuildDate>
+    <generator>Jekyll v2.2.0</generator>
+    
+      <item>
+        <title>blogging on blogging</title>
+        <description>&lt;p&gt;Blogging throughout phase 0 has been an awesome way to think about various concepts in programming with a different side of my brain, whether it’s putting the technical into words or reflecting on how I think, deal with conflict, and ask questions, among other topics. As an English major in college,  &lt;/p&gt;
+</description>
+        <pubDate>Sun, 03 Aug 2014 14:51:00 -0700</pubDate>
+        <link>http://yourdomain.com/2014/08/03/wk9blogreflection/</link>
+        <guid isPermaLink="true">http://yourdomain.com/2014/08/03/wk9blogreflection/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Welcome to Jekyll!</title>
+        <description>&lt;p&gt;You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory - edit this post and re-build (or run with the &lt;code&gt;-w&lt;/code&gt; switch) to see your changes!
+To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention: YYYY-MM-DD-name-of-post.ext.&lt;/p&gt;
+
+&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;Tom&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &amp;#39;Hi, Tom&amp;#39; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 03 Aug 2014 05:58:47 -0700</pubDate>
+        <link>http://yourdomain.com/jekyll/update/2014/08/03/welcome-to-jekyll/</link>
+        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2014/08/03/welcome-to-jekyll/</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>asking questions the right way</title>
+        <description>&lt;p&gt;Not asking the &lt;i&gt;right&lt;/i&gt; questions, mind you! As long as you&#39;re learning something new, it&#39;s always good to ask a question. What&#39;s important is asking the question so that potential answers will be relevant and helpful - so that people who help you will know what you need AND want to help you. How do we do this?&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://etc-mysitemyway.s3.amazonaws.com/icons/legacy-previews/icons/black-paint-splatter-icons-alphanumeric/069159-black-paint-splatter-icon-alphanumeric-question-mark3.png&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Earlier in Phase 0, while fetching changes from DBC, I ran into an odd error with my git (particularly with setting up my remote and origin). Whenever I tried to merge, it would get stuck, saying I had some file that I had to delete - but when I looked for the file, I couldn&#39;t find it! I turned to my brother, a DBC grad, for help, and the question I first posed to him was:&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;&lt;i&gt;Help! I think I broke my git!&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Clearly this wasn&#39;t the most informative way to ask for help - he had no idea what the problem was or how to address it until we screenshared and I recreated the problem. After researching the &lt;i&gt;right&lt;/i&gt; way to ask questions, here are some issues with my question:&lt;/p&gt;
+&lt;p&gt;&lt;ul&gt;
+	&lt;li&gt;&lt;b&gt;Not specific.&lt;/b&gt; The issue could have been with ANY aspect of git at all, so if I&#39;m asking someone to take the time to help me, I need to narrow down the scope of my question so they don&#39;t waste their time giving me an answer that won&#39;t help me. Plus, it&#39;s my question - I shouldn&#39;t expect them to do all the work of figuring the problem out, I should present that problem to them clearly.&lt;/li&gt;
+	&lt;li&gt;This goes with the above issue, but &lt;b&gt;I didn&#39;t ask a question, I just stated a problem.&lt;/b&gt; How was my brother supposed to know what I needed to happen and how it went wrong?&lt;/li&gt;
+	&lt;li&gt;&lt;b&gt;I should have copied or screenshotted the commands that brought me to the error.&lt;/b&gt; This would make tracing the problem much easier.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;My brother told me he needed some of this information as we worked through the issue, and that&#39;s when I realized I could have asked the question much more effectively. PLUS, I should have done more research so that it showed that I had tried to find my own answers. I had panicked, worried I would &#39;break&#39; my git even more than I already had, and didn&#39;t want to mess with it. Honestly, there&#39;s pretty much nothing I did right with this question.&lt;/p&gt;
+&lt;p&gt;A better question that I asked on StackOverflow a couple weeks ago:&lt;/p&gt;
+&lt;img class=&quot;300img&quot; src=&quot;http://i1060.photobucket.com/albums/t460/Elena_Sharma/ScreenShot2014-07-30at52147PM_zps042a365c.png&quot; /&gt;
+&lt;p&gt;Here are a few things I think I did right with this question:
+	&lt;ul&gt;
+		&lt;li&gt;&lt;b&gt;I was specific.&lt;/b&gt; I showed the language I was working with and I used specific terminology to highlight the exact problem I was having.&lt;/li&gt;
+		&lt;li&gt;&lt;b&gt;I showed sample code,&lt;/b&gt; enough to give context for the problem, but not so much that potential helpers would be overwhelmed by it.&lt;/li&gt;
+		&lt;li&gt;&lt;b&gt;I made it clear what I wanted to happen and what was &lt;i&gt;actually&lt;/i&gt; happening.&lt;/b&gt; This saves people from having to run my code if it&#39;s just a quick fix (though running it would be easy given that it&#39;s a short, standalone piece of code).&lt;/li&gt;
+		&lt;li&gt;&lt;b&gt;I tagged my post with relevant tags,&lt;/b&gt; making the question easier to find for users tracking certain tags.&lt;/li&gt;
+	&lt;/ul&gt;
+	And what I didn&#39;t do well:
+	&lt;ul&gt;
+		&lt;li&gt;&lt;b&gt;I should have framed it as a question.&lt;/b&gt; This is a best practice kind of deal, because it helps make it more clear what I want to have happen. It&#39;s probably forgiveable in this case because it&#39;s pretty straightforward - I want to initialize my object as an array - but framing the question as such instead of a statement would make my goal even more clear.&lt;/li&gt;
+		&lt;li&gt;&lt;b&gt;I could have shown evidence that I did research.&lt;/b&gt; I did, in fact, do research - especially on StackOverflow - before asking about this syntax, but how could anyone have known that? It shows due diligence if I write something like, &quot;I&#39;ve seen other problems where this answer worked, but it didn&#39;t work for me - it gave me ___&quot;, or something like that.&lt;/li&gt;
+	&lt;/ul&gt;
+&lt;/p&gt;
+&lt;img src=&quot;http://www.saltywaffle.com/wp-content/uploads/2011/06/images-help-landing.gif&quot; /&gt;
+&lt;p&gt;The bottom line of learning how to ask a question, whether online or in person is asking &lt;i&gt;yourself&lt;/i&gt;: &lt;b&gt;am I asking this question in a thoughtful, clear, well-researched, and respectful way?&lt;/b&gt; Because if so, other people are probably much more likely to be inclined to help out!
+&lt;/p&gt;
+&lt;/p&gt;
+</description>
+        <pubDate>Wed, 30 Jul 2014 07:41:00 -0700</pubDate>
+        <link>http://yourdomain.com/2014/07/30/wk9cultural/</link>
+        <guid isPermaLink="true">http://yourdomain.com/2014/07/30/wk9cultural/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>what is computer memory?</title>
+        <description>&lt;p&gt;&lt;b&gt;M&lt;/b&gt;emory - for us, Wikipedia defines it thus: &quot;In psychology, memory is the process in which information is encoded, stored, and retrieved.&quot; For most of us non-psychologists, memory is a largely intangible idea, something we use every day but is unpredictable, sometimes faulty, and certainly not something we could upgrade if we wanted to.&lt;/p&gt;
+&lt;p&gt;Now for computers, memory is similar in some ways. Memory, again, refers to the storing of information so that it can be retrieved at some point, but where it is &lt;i&gt;different&lt;/i&gt; is that computer memory resides in physical memory - and there are quite a few types of memory.&lt;/p&gt;
+&lt;h3&gt;types of memory&lt;/h3&gt;
+&lt;p&gt;&lt;b&gt;T&lt;/b&gt;here are a ton of categories we can break memory down into, so here&#39;s a quick run-through:
+	&lt;ul&gt;
+		&lt;li&gt;primary memory&lt;/li&gt;
+		&lt;ul&gt;
+			&lt;li&gt;semiconductor memory&lt;/li&gt;
+			&lt;ul&gt;
+				&lt;li&gt;volatile&lt;/li&gt;
+				&lt;ul&gt;
+					&lt;li&gt;primary memory (RAM, DRAM)&lt;/li&gt;
+					&lt;li&gt;cache memory (static RAM, or SRAM)&lt;/li&gt;
+				&lt;/ul&gt;
+				&lt;li&gt;non-volatile&lt;/li&gt;
+				&lt;ul&gt;
+					&lt;li&gt;flash memory&lt;/li&gt;
+					&lt;li&gt;ROM/PROM/EPROM/EEPROM&lt;/li&gt;
+				&lt;/ul&gt;
+			&lt;/ul&gt;
+		&lt;li&gt;secondary memory&lt;/li&gt;
+		&lt;ul&gt;
+			&lt;li&gt;&quot;storage&quot;, such as tape, magnetic, and optical storage: tape like in music tapes, film; magnetic floppy disks; optical storage, like CD, CD-ROM, DVD&lt;/li&gt;
+		&lt;/ul&gt;
+	&lt;/ul&gt;
+&lt;/ul&gt;
+&lt;i&gt;Primary memory&lt;/i&gt; works at high speeds and its volatile types, called so because they lose data when the CPU is powered off, are really what is called &lt;i&gt;memory&lt;/i&gt;. Secondary memory, as is noted above, is referred to more as &lt;i&gt;storage&lt;/i&gt;, which is slower than primary memory and consists of larger and less expensive components that are farther from the CPU.
+&lt;/p&gt;
+&lt;h3&gt;computer memory: a history&lt;/h3&gt;
+&lt;p&gt;&lt;b&gt;A&lt;/b&gt;s we can see, there&#39;s a lot to the topic of computer memory. Rather than try to cover all of these types of memory in detail, I&#39;ll offer a brief history of computer memory and how it mainly works today.&lt;/p&gt;
+&lt;p&gt;&lt;img class=&quot;300img&quot; alt=&quot;two female programmers in front of ENIAC computer&quot; src=&quot;http://technical.ly/philly/wp-content/uploads/sites/2/2011/02/eniac4.jpg&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;The first electronic digital computer was called the ENIAC, for Electronic Numerical Integrator and Computer. Operational in 1947, the ENIAC made use of &lt;a class=&quot;postlink&quot; href=&quot;http://en.wikipedia.org/wiki/Vacuum_tube&quot;&gt;vacuum tube&lt;/a&gt; accumulators. At this point, computers could really only store a few &lt;a class=&quot;postlink&quot; href=&quot;http://en.wikipedia.org/wiki/Byte&quot;&gt;bytes&lt;/a&gt;, which in today&#39;s standards consist of a grouping of eight &lt;a class=&quot;postlink&quot; href=&quot;http://en.wikipedia.org/wiki/Bit&quot;&gt;bits&lt;/a&gt;. Storage locations were also specified by programs, which sent data to be recorded at a physical location (whether paper or other memory hardware).&lt;/p&gt;
+&lt;p&gt;Enter &lt;i&gt;virtual memory&lt;/i&gt;, developed in the 1950s but not really widely implemented in computers until the 80s, which allows for better multitasking by freeing up programs to use more memory that&#39;s not in a shared space. The operating system controls where to store information, instead of relying on the user to specify locations. Memory that is currently being used by the computer will be placed, by the operating system, in RAM - which in modern computers, means that memory is placed in &lt;i&gt;integrated circuits&lt;/i&gt;, electronic cicuits often made out of silicon (or other semiconductor materials). The operating system does this because RAM is faster than using the hard disk, since RAM is primary memory and thus stored closer to the CPU. If there is not enough RAM to run the programs, a lowering of performance called &lt;a class=&quot;postlink&quot; href=&quot;http://en.wikipedia.org/wiki/Thrashing_%28computer_science%29&quot;&gt;thrashing&lt;/a&gt; can occur as the computer is constantly moving memory between RAM and disk, unable to address current tasks.&lt;/p&gt;
+&lt;h3&gt;so, what &lt;i&gt;really&lt;/i&gt; is computer memory?&lt;/h3&gt;
+&lt;p&gt;&lt;b&gt;M&lt;/b&gt;emory cells, consisting of electronic circuits, store data by assigning a binary address to each piece of data. These addresses connect to a physical location on a silicon chip, so the amount of memory in a computer, even if it might be called &quot;virtual&quot;, is still directly connected to the amount of physical storage available.&lt;/p&gt;
+&lt;p&gt;&lt;img class=&quot;300img&quot; alt=&quot;close up of a silicon computer chip&quot; src=&quot;http://eandt.theiet.org/news/2012/sep/images/640_computer_chip.jpg&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Curious about how your computer is storing the data you&#39;re using? Try Googling: &quot;accessing memory addresses in ____&quot; for the language you&#39;re programming and check it out! You can also find out how many bytes your computer can process at a time by checking out its -bit: a 32-bit CPU is able to process 32 bits at a time and if 1 byte is 8 bits, then it can process 4 bytes.&lt;/p&gt;
+&lt;h3&gt;further reading&lt;/h3&gt;
+&lt;p&gt;There&#39;s a LOT more to this topic than this post, but I hope I could provide a handy introduction! Here are some more resources:
+	&lt;ul&gt;
+		&lt;li&gt;Topic-specific links&lt;/li&gt;
+		&lt;ul&gt;	
+			&lt;li&gt;&lt;a class=&quot;postlink&quot; href=&quot;http://en.wikipedia.org/wiki/Computer_memory&quot;&gt;computer memory&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a class=&quot;postlink&quot; href=&quot;http://en.wikipedia.org/wiki/Virtual_memory&quot;&gt;virtual memory&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a class=&quot;postlink&quot; href=&quot;http://en.wikipedia.org/wiki/Integrated_circuit&quot;&gt;integrated circuits&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a class=&quot;postlink&quot; href=&quot;http://en.wikipedia.org/wiki/Memory_leak&quot;&gt;memory leaks (a common issue cropping up as I read about memory in programming)&lt;/a&gt;&lt;/li&gt;
+		&lt;/ul&gt;
+		&lt;li&gt;Articles&lt;/li&gt;
+		&lt;ul&gt;
+			&lt;li&gt;&lt;a class=&quot;postlink&quot; href=&quot;http://computer.howstuffworks.com/computer-memory.htm&quot;&gt;how computer memory works&lt;/a&gt;(this is a GREAT article that offers much more detail as it breaks down the hierarchy of modern CPU memory)&lt;/li&gt;
+			&lt;li&gt;&lt;a class=&quot;postlink&quot; href=&quot;http://patshaughnessy.net/2012/3/23/why-you-should-be-excited-about-garbage-collection-in-ruby-2-0&quot;&gt;garbage collection in ruby 2.0&lt;/a&gt; (this article explains a feature of Ruby that reduces memory consumption - worth a read! However GC, as it&#39;s called, has some kinks of its own, so it&#39;s not perfect)&lt;/li&gt;
+		&lt;/ul&gt;
+	&lt;/ul&gt;
+&lt;/p&gt;
+</description>
+        <pubDate>Fri, 25 Jul 2014 07:00:00 -0700</pubDate>
+        <link>http://yourdomain.com/2014/07/25/wk8technical/</link>
+        <guid isPermaLink="true">http://yourdomain.com/2014/07/25/wk8technical/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>thinking beyond myself</title>
+        <description>&lt;p&gt;As one of four extremely talkative and opinionated siblings, conflicts among us were a part of daily life growing up. For a long time, I was a really terrible kid - obnoxious, selfish, bratty, you name it. Apparently I started growing out of that phase when I was 8 or 9 and now people have expressed disbelief that I was ever that awful... a response that makes me feel both good, because it must mean that I&#39;m better to be around, and guilty in a way, because what if I still am that same selfish, unempathetic kid?&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://media.tumblr.com/tumblr_md3qrgtmWY1qdns8i.gif&quot; /&gt;&lt;/p&gt;
+&lt;h3&gt;sister argument&lt;/h3&gt;
+&lt;p&gt;The specific emotional conflict that comes to mind was between my older sister and I, driving home one day. I teased her, saying that she looked at herself in every reflective surface she could because she was so vain (something my siblings and I had teased her about when we were all younger), and to my shock, she reacted emotionally, starting to cry angrily and telling me that she wasn&#39;t like that anymore, it wasn&#39;t fair to treat her like who she had been. What I thought had been a light, teasing comment had meant far more to her than that - I just hadn&#39;t realized.&lt;/p&gt;
+&lt;p&gt;At first, I responded by attacking back: why are you reacting like this? What I said wasn&#39;t &lt;i&gt;that&lt;/i&gt; bad? After all, it is partly true, isn&#39;t it? I didn&#39;t mean it to be hurtful! But more than anything, I felt guilty - I think what I said was a combination of my attacking her back so that I could channel my feelings of shame at my own thoughtlessness. I&#39;ve been told I&#39;m a good listener, that I&#39;m empathetic - but if I defined myself like that and I had so obviously failed at being sensitive, what did that make me?&lt;/p&gt;
+&lt;p&gt;My counterattacks only made the situation worse - neither my sister or I like backing down, and I was convinced I hadn&#39;t done anything that wrong. When we got home we both separated for a little while, but then I couldn&#39;t stand it, I felt sick feeling that the conflict wasn&#39;t being resolved in any way. I went to apologize for hurting her feelings and we had a calmer, more constructive talk about it all.&lt;/p&gt;
+&lt;h3&gt;talking it out&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;http://media-cache-ec0.pinimg.com/736x/2f/e2/b1/2fe2b143f7f079f8e57b129f8d98b112.jpg&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;The main takeaway from that conversation for me was, it didn&#39;t matter if I didn&#39;t understand why she reacted like that - all that mattered was that what I said had hurt her. It didn&#39;t matter if &lt;i&gt;I&lt;/i&gt; wouldn&#39;t have reacted in that way, as I realized I had been using myself as my measure for what would be hurtful or not. The other thing I learned is that though my method of attacking back is largly logical and measured, it is not any more helpful than more emotional attacks in a conflict. I had kept fighting with her because of my own insecurity, refusing to believe I could be so thoughtless. What I need is to take a step back, give up the idea of being &#39;right&#39;, and get down to the real - what those words might mean to someone else, what my intentions were, and how those are often very different.&lt;/p&gt;
+&lt;p&gt;I haven&#39;t seriously fought with my sister since that conflict, after our conversation. Now we know how each other think and we know that we can work through issues by being very straightforward with one another, getting rid of the potentially hurtful things that can be said in the heat of a conflict. Conflicts like these always make me feel that I&#39;m incapable of being empathetic if I so thoughtlessly hurt someone else, making me fall into the &quot;attack self&quot; thoughts, wondering if it&#39;s impossible for me to change from the selfish, bratty child I was. But resolutions like my sister and I had also show me that yes, progress and understanding can be reached, and that&#39;s what I remember when I encounter other conflicts.  
+&lt;/p&gt;
+</description>
+        <pubDate>Fri, 25 Jul 2014 07:00:00 -0700</pubDate>
+        <link>http://yourdomain.com/2014/07/25/wk8cultural/</link>
+        <guid isPermaLink="true">http://yourdomain.com/2014/07/25/wk8cultural/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>SQL injection attacks!</title>
+        <description>&lt;h3&gt;What is SQL?&lt;/h3&gt;
+&lt;p&gt;So you&#39;re a new developer and you&#39;re just getting to know Structured Query Language or SQL, as it&#39;s known. SQL is a handy language that interacts with database systems - operates and queries them, mostly - that form the functionality of many web applications. Simply put, SQL can create schemas and update/insert/delete/query data - it manages data in database systems. Sounds useful, right?&lt;/p&gt;
+&lt;h3&gt;SQL injection&lt;/h3&gt;
+&lt;p&gt;But there&#39;s a well-known issue - &lt;a class=&quot;postlink&quot; href=&quot;https://www.owasp.org/index.php/Top_10_2013-T10&quot;&gt;considered the foremost threat to web applications&lt;/a&gt; - with SQL called an &lt;b&gt;&lt;i&gt;SQL injection attack&lt;/i&gt;&lt;/b&gt;. It&#39;s a type of security attack that can bypass the application&#39;s structure to retrieve information from the database, bypass authentication measures, or alter the content of the database.&lt;/p&gt;
+&lt;h3&gt;How to combat it&lt;/h3&gt;
+&lt;p&gt;Never fear, there are ways to fight back against SQL injection attacks! The coder needs to make sure to correctly filter user input for escape characters. In addition, all user-supplied fields should be strongly typed - so that if a piece of input is supposed to be an integer, the programmer needs to put checks in place that make sure that the input is in fact an integer. In essence, SQL injection attacks stem from a security flaw in the code of a web application. So whichever system or language is being used, the programmer needs to make sure that user input is strongly typed properly filtered.&lt;/p&gt;
+&lt;h3&gt;SQL vs. NoSQL&lt;/h3&gt;
+&lt;p&gt;Let&#39;s be honest, I&#39;m a total beginner programmer. So my understanding of the difference between these two types of databases is that SQL is a relational database - storing relations of fields, often working in a more table-like or tabular structure - and NoSQL (or, Not Only SQL) is non-relational, using a simpler, sometimes considered sleeker interface. SQL seems to have more standardized interfaces and more clear-cut relational structures, though some operations might be slower than in NoSQL, which grants the user more control over how s/he will access information, but lacks a standard interface. Beyond that broad overview of the two languages, a lot of the information is over my head. I&#39;m glad we learned about SQL first, definitely - the tabular nature is a nice, straightforward structure for us beginners. But I&#39;m interested to see what kind of alternatives NoSQL presents, since I can&#39;t imagine something &lt;i&gt;non&lt;/i&gt;-tabular really.&lt;/p&gt;
+&lt;h3&gt;optimizing SQL queries&lt;/h3&gt;
+&lt;p&gt;As far as optimizing SQL, which is considered by some to be clunkier than NoSQL? We can avoid using wildcards - &#39;%&#39; - and instead use &#39;whatever%&#39;, which does not slow down the database as much. It is also easier and faster for SQL to find data based on a positive match than a negation through operations like NOT, NOT LIKE, NOT IN, etc. We should also use LIMIT to limit the resulting data from a query. &lt;a class=&quot;postlink&quot; href=&quot;http://hungred.com/useful-information/ways-optimize-sql-queries/&quot;&gt;this site&lt;/a&gt; contains more examples of how to optimize SQL queries, especially if they were being run on a giant database.&lt;/p&gt;
+&lt;h3&gt;in conclusion...&lt;/h3&gt;
+&lt;p&gt;Clearly, there is a LOT of information out there about SQL and other types of database languages - their weaknesses, strengths, optimization strategies, and much more. I&#39;m looking forward to continuing to learn more about these languages and how to navigate them without exposing my web applications to injection attacks!
+&lt;/p&gt;
+</description>
+        <pubDate>Sun, 20 Jul 2014 06:36:00 -0700</pubDate>
+        <link>http://yourdomain.com/2014/07/20/wk7technical/</link>
+        <guid isPermaLink="true">http://yourdomain.com/2014/07/20/wk7technical/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>my values</title>
+        <description>&lt;h3&gt;exploring my values&lt;/h3&gt;
+&lt;p&gt;The times I&#39;ve been happiest I&#39;ve felt a combination of a lot of emotions or other feelings, but mostly: 
+	&lt;ul&gt;
+		&lt;li&gt;Achievement&lt;/li&gt;
+		&lt;li&gt;Close relationships&lt;/li&gt;
+		&lt;li&gt;Confidence&lt;/li&gt;
+		&lt;li&gt;Courage&lt;/li&gt;
+		&lt;li&gt;Feminism&lt;/li&gt;
+		&lt;li&gt;Freedom&lt;/li&gt;
+		&lt;li&gt;Growth&lt;/li&gt;
+		&lt;li&gt;Honesty&lt;/li&gt;
+		&lt;li&gt;Loyalty&lt;/li&gt;
+		&lt;li&gt;Self-knowledge&lt;/li&gt;
+	&lt;/ul&gt;
+&lt;/p&gt;
+&lt;p&gt;Courage is the most important value, I think, because it drives all the other qualities that I value in myself: courage to keep trying, both with goals and relationships, courage to change and grow, courage to be honest and loyal, and the courage to face myself, which is sometimes the most frightening thing of all. Because really self-reflecting, for me, can be scary - I face what I&#39;ve said or what I&#39;ve done and it&#39;s easy to judge myself or my mistakes - but having the courage to believe that yes, I can do this or I can fix this or I am capable of changing and growing... that&#39;s why courage.&lt;/p&gt;
+&lt;p&gt;Do I live up to these values? Being honest with myself, this is how I&#39;d rate how much I try to live up to these values, 1 being disagree and 5 being that I agree: 
+	&lt;ul&gt;
+		&lt;li&gt;Achievement - 3&lt;/li&gt;
+		&lt;li&gt;Close relationships - 4&lt;/li&gt;
+		&lt;li&gt;Confidence - 3&lt;/li&gt;
+		&lt;li&gt;Courage - 3&lt;/li&gt;
+		&lt;li&gt;Feminism - 5&lt;/li&gt;
+		&lt;li&gt;Freedom - 3&lt;/li&gt;
+		&lt;li&gt;Growth - 4&lt;/li&gt;
+		&lt;li&gt;Honesty - 5&lt;/li&gt;
+		&lt;li&gt;Loyalty - 5&lt;/li&gt;
+		&lt;li&gt;Self-knowledge - 5&lt;/li&gt;
+	&lt;/ul&gt;
+&lt;/p&gt;
+&lt;p&gt;When I think about my values, especially when I rate how much I think I try to live up to them, I feel like I&#39;m failing at all of them - like they are more goals or wishful thinking than values that really represent who I am. Part of that might be because each person, as they say, is her own worst critic, and I have trouble being extremely confident or declarative about something. For example, when I wrote my 5 for Feminism I worried about confirming the stereotype of the crazed, bra-burning, man-hating fanatical feminist. So maybe my self-knowledge will help me be aware of these feelings when they arise.&lt;/p&gt;
+&lt;p&gt;As for how I&#39;ll deal with these feelings, I&#39;ll just have to take a deep breath and remind myself that all I can do is enough - that there is potential for me to grow and that&#39;s a doable thing, not an impossible, scary task. I will remind myself of what I have achieved to remember that I can continue learning and achieving new things. I also will remember to not be too hard on myself when I feel like I&#39;m not learning fast enough, being adventurous enough, or just am not being &lt;i&gt;enough&lt;/i&gt; - that everything can be seen as an adventure. I&#39;ll end this post with this quote from Ian Fleming which sometimes makes me think, &#39;Well I am leading a dull life&#39;, one of the most soul-crushing feelings - but as I redefine adventure I realize that the narrow definition of it is in fact limiting, keeping me from seeing much more as a type of adventure: &lt;/p&gt;
+&lt;p&gt;&lt;b&gt;&lt;i&gt;Never say &#39;no&#39; to adventures. Always say &#39;yes&#39;, otherwise you&#39;ll lead a very dull life.&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 20 Jul 2014 06:36:00 -0700</pubDate>
+        <link>http://yourdomain.com/2014/07/20/wk7cultural/</link>
+        <guid isPermaLink="true">http://yourdomain.com/2014/07/20/wk7cultural/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>classes vs. modules</title>
+        <description>&lt;p&gt;So as beginner Rubyists, we&#39;ve started to work with classes, figure out where their methods and variables begin and end, how to play with them, and even how to create our own. But wait! Classes aren&#39;t the only structures in Ruby that hold methods - this new world is much bigger than that. There&#39;s also these things called &lt;font face=&quot;courier&quot;&gt;modules&lt;/font&gt; that seem pretty important to know about. So without further ado, what are modules?&lt;/p&gt;
+&lt;h3&gt;&lt;i&gt;modules...&lt;/i&gt;&lt;/h3&gt;
+&lt;p&gt;According to the &lt;a class=&quot;postlink&quot; href=&quot;http://www.ruby-doc.org/core-2.1.2/Module.html&quot;&gt;Ruby docs&lt;/a&gt;, a &lt;font face=&quot;courier&quot;&gt;Module&lt;/font&gt; is a &quot;collection of methods and constants&quot; and the methods could be instance methods - which would appear as methods in a class - or module methods, which do not appear as methods in a class. So what does it mean that a &lt;font face=&quot;courier&quot;&gt;Module&lt;/font&gt; can have these module methods, that don&#39;t even need to be inside an object, unlike the methods we&#39;ve seen so far with &lt;font face=&quot;courier&quot;&gt;Classes&lt;/font&gt;?&lt;/p&gt;
+&lt;p&gt;Modules have a different purpose than classes. When we work with classes, we are using them to create and modify objects, but modules are about functions instead of objects. By that I mean, what if you wanted to use one method - maybe one that will output a &#39;Good job!&#39; to the user as they progress through different levels of an app. A module can be used across multiple classes or apps. To get an example of how modules might be formatted, let&#39;s create this imaginary module:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://i1060.photobucket.com/albums/t460/Elena_Sharma/ScreenShot2014-07-13at120206PM_zps6b7527f1.png&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Here we&#39;ve created a module called GoodJob with two functions, greeting and goodbye, and three variables: MSG1, MSG2, and MSG3. Let&#39;s say we&#39;ve saved the file as goodjob.rb - then how to access what&#39;s inside the module?&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://i1060.photobucket.com/albums/t460/Elena_Sharma/ScreenShot2014-07-13at120610PM_zps480757c2.png&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;We can access the file itself by requiring &#39;goodjob&#39;; then as you can see, functions are called as might be expected and variables are accessed using a double-colon.&lt;/p&gt;
+&lt;h3&gt;&lt;i&gt;...compared to classes&lt;/i&gt;&lt;/h3&gt;
+&lt;p&gt;So, how does this compare to a class? Well for one thing, the module can be required across multiple methods or even multiple apps, because its functionality is what is important. Classes are about instances of its objects or instantiation - the making of objects. In a way, classes are the way to create objects, which are like miniature modules since they can contain variables and functions. And, when an object is instantiated, it is essentially &lt;i&gt;required&lt;/i&gt;.&lt;/p&gt;
+&lt;p&gt;In many ways, then, classes and modules are pretty similar. Why would we use one over the other? &lt;b&gt;Classes do not interfere with other classes&lt;/b&gt;, so a ton of classes can be written and used for a program. Only one module can be required for a program, however. So classes, as the roadmaps for creating the mini-modules of objects, might allow a litle more flexibility for getting multiple things done on a smaller scale.&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;(for further reading, check out &lt;a class=&quot;postlink&quot; href=&quot;http://ruby.learncodethehardway.org/book/ex40.html&quot;&gt;this lesson from learncodethehardway&lt;/a&gt; - it really helped me learn about modules and classes AND it has some great examples and exercises to try out!)&lt;/small&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 13 Jul 2014 01:22:00 -0700</pubDate>
+        <link>http://yourdomain.com/2014/07/13/wk6technical/</link>
+        <guid isPermaLink="true">http://yourdomain.com/2014/07/13/wk6technical/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>stereotype threat</title>
+        <description>&lt;p&gt;...this is what Dr. Claude Steele calls, as DiversityInc puts it, &lt;i&gt;&quot;the threat of being viewed through the lens of a negative stereotype or the fear of doing something that would inadvertently confirm that stereotype. Call it subconscious self-handicapping.&quot;&lt;/i&gt;That last bit packs a particularly strong punch, putting it so simply. It&#39;s a self-handicapping that we might not even be aware of, that we might not be able to control.&lt;/p&gt;
+&lt;h3&gt;&lt;b&gt;&lt;i&gt;my experiences with stereotype threat&lt;/i&gt;&lt;/b&gt;&lt;/h3&gt;
+&lt;p&gt;Though this was a new term for me, it was interesting researching Dr. Steele&#39;s work because it really put a name to what I&#39;m sure many experience on a daily basis. But rather than attempting to speak for a group, I&#39;ll just relate some of my own experiences with stereotype threat.&lt;/p&gt;
+&lt;p&gt;I was homeschooled as a kid, with my three siblings (two sisters and a brother), by our mom up through eighth grade - so it seems unlikely that stereotype threat might find its way into our academic bubble. One of the main reasons we &lt;i&gt;were&lt;/i&gt; homeschooled, my mom told and tells us, was to avoid the torturous experiences of middle school where we might find that anything that made us unique made us weird or uncool, where we might start hating parts of ourselves or repressing them just to &quot;fit in&quot; (I think this worked out; my brother and I&#39;s affectionate term for each other was &quot;weirdo&quot;). But somehow, through the sports we did or other activities, stereotype still found its way into my life.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://3.bp.blogspot.com/-PQ3NlxRpXrQ/TcqYt6nNiJI/AAAAAAAAHUU/o4q8qpDmesI/s1600/socialization.jpg&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;One thing I dealt with, early on, was the stereotype that all homeschooled kids are weird - that they don&#39;t know how to socialize with others, that they don&#39;t know how to have friends. As a kid, I wavered between the &quot;I don&#39;t care if I&#39;m weird, if you don&#39;t like with me, deal with it!&quot; attitude I got from my home environment and &quot;what if I really am weird? What if no one wants to be my friend? What if I just don&#39;t fit in anywhere?&quot;. To this day I feel hesitant revealing that I was homeschooled; though I often gets the response, &quot;But you&#39;re so normal!&quot; (revealing that this person believed in the stereotype), I was always afraid of an awkward pause, some feeling that the other person might be thinking, &quot;Well, that explains it&quot; or that any future encounter with this person might be colored by the knowledge of my homeschooling.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.boston.com/bostonglobe/ideas/brainiac/sexismandmath.png&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;The most memorable experience I have with stereotype threat was in my junior year of high school when I was struggling in my honors math class - I eventually failed out of the class and had to take the &quot;regular&quot; level. Now that I know what stereotype threat is, I recognize my thought process behind studying less for some tests (because what was the point, when I could just spend time doing what I was good at, English or Latin) or even once I&#39;d failed the class for what they are. I thought it confirmed that yes, I was terrible at math just like I&#39;d always subconsciously felt I must be, even though I&#39;d always been good at it when I was homeschooled. Though no one ever explicitly said to me, &#39;Women aren&#39;t good at math&#39;, clearly at some point this stereotype had ingrained itself in my mind. I was so afraid to face math again that I didn&#39;t take Calculus, a class I&#39;d always wanted to take, until junior year of college. My taking computer science at Harvey Mudd college, an engineering school, was also something I&#39;d always been afraid I&#39;d fail at, and in some ways I held myself back from taking it earlier (I only took it senior year of college).&lt;/p&gt;
+&lt;h3&gt;&lt;b&gt;&lt;i&gt;so what do we do about it?&lt;/i&gt;&lt;/b&gt;&lt;/h3&gt;
+&lt;p&gt;The thing about stereotype threat is that much of it seems to come from the nebulous, external forces of the stereotypes that exist in our world. So what can we do if our fear of confirming a stereotype looms over us, holding us back?&lt;/p&gt;
+&lt;p&gt;Instead of lingering on past struggles with stereotype threat, I&#39;d like to find ways to deal with it when I - and others - might encounter it in future environments. First off, I think &lt;b&gt;&lt;i&gt;empathy&lt;/i&gt;&lt;/b&gt; is incredibly important. Though I&#39;ve just spent all this time talking about my experiences, it shouldn&#39;t necessarily take me saying this stuff for stereotype threat to seem worth thinking about for someone else. Everyone has experienced or not experienced stereotype threat to different degrees - if we could only understand others who&#39;d experienced it in the same exact way as us, how could we ever communicate about it or help each other?&lt;/p&gt;
+&lt;p&gt;So I know there are people who deal with stereotype threat much more frequently or to a larger degree. Thinking that it&#39;s everywhere, ingrained into our culture, could easily be paralyzing - how are we supposed to fix all of the underlying problems surrounding stereotype threat? So along with empathy I would try to &lt;b&gt;&lt;i&gt;keep it within reach&lt;/i&gt;&lt;/b&gt;. It&#39;s easy to talk about this stuff as if it&#39;s theoretical, like we don&#39;t personally know anyone experiencing it or do anything to perpetuate it. We have to keep the scope within the reach of what we can affect. If we see recognize a situation as unwelcoming or see that someone might be feeling the effects of stereotype threat, we have to &lt;i&gt;do&lt;/i&gt; something about it. &lt;/p&gt;
+&lt;p&gt;Like what? &lt;b&gt;&lt;i&gt;Talk to that person&lt;/i&gt;&lt;/b&gt;. Ask if there&#39;s a way I can help - if I can change some of my behaviors or become more thoughtful about the way I am communicating. Or, if I haven&#39;t noticed it and someone calls me out on it, the most important thing is not only to hear that person but to &lt;b&gt;&lt;i&gt;listen&lt;/i&gt;&lt;/b&gt; - to think about it.&lt;/p&gt;
+&lt;p&gt;&lt;img class=&quot;shrinkimg&quot; src=&quot;http://www.smithdonovan.com/wp-content/gallery/cartoons/cartoon-revilo-comic-art-cat-active-listening-arts-and-culture.jpg&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;And if I&#39;m feeling it? I have to remind myself that &lt;b&gt;&lt;i&gt;intelligence is fluid&lt;/i&gt;&lt;/b&gt;. Failing at something at one point doesn&#39;t mean anything other than that it didn&#39;t work out then - it doesn&#39;t mean it couldn&#39;t work out in the future. And I have to remember that my successes or failures in any particular area do not equate to my worth as a person. Having the hope and determination that skills or intelligences are shifting things that can change with my own effort - that is how I&#39;ll have to face future stereotype threats.&lt;/p&gt;
+&lt;p&gt;But I wouldn&#39;t shove all my own coping mechanisms on someone else if they came to me or if I thought they might be feeling stereotype threat. At that point, my whole responsibility would be to listen, to think, and to continue thinking long after the listening was done. And then make a change.
+&lt;/p&gt;
+</description>
+        <pubDate>Sun, 13 Jul 2014 01:22:00 -0700</pubDate>
+        <link>http://yourdomain.com/2014/07/13/wk6cultural/</link>
+        <guid isPermaLink="true">http://yourdomain.com/2014/07/13/wk6cultural/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>two heads are better than one?</title>
+        <description>&lt;p&gt;I certainly think so. Now that we&#39;ve passed the halfway mark of Phase 0, I&#39;ve seen how 
+much more productive two programmers can be together than when they&#39;re working alone. 
+Working with others helps me keep moving - if I feel like I&#39;m stuck and I&#39;m working alone, 
+it&#39;s much easier to either pursue it even when I&#39;m starting to feel burnt out and I should 
+take a break or give up altogether, when I maybe could have gone further. Having another 
+person there to help assess where we as programmers are at makes a big difference - we 
+can push the other further if there&#39;s still productive work to be done or we can tell 
+the other programmer that it&#39;s probably a good time to take a break. &lt;/p&gt;
+&lt;p&gt;Pairing is also great because with double the programmers, there&#39;s the potential for 
+double the creativity and output! I have really enjoyed seeing the different approaches my pairs have had for our challenges because so many times they have come up with strategies, refactoring ideas, or ways of testing/debugging that never would 
+have occurred to me. So I&#39;ve loved learning from working in pairs and also teaching others about my own ideas, as they&#39;re teaching me.&lt;/p&gt;
+&lt;p&gt;Pairing has only gotten frustrating when I feel like we&#39;re not on the same page or treating ourselves like a pair - if one person dominates the navigating or the driving or just doesn&#39;t seem to want to listen to the other. This hasn&#39;t happened often, though, and I think the key to avoiding this kind of situation (because no one really wants to experience it; even the one dominating must know that a give-and-take would be more productive and fun) is lots of communication before, during, and after the session.&lt;/p&gt;
+&lt;h3&gt;&lt;i&gt;feedback&lt;/i&gt;&lt;/h3&gt;
+&lt;p&gt;Usually I&#39;m excited to read my feedback! I&#39;m a big fan of open, honest communication, so thoughtful feedback is always great to receive. Also I&#39;m here to learn and improve, so 
+I consider feedback that is entirely positive without constructive feedback a little less useful than feedback that gives me suggestions about how to improve. So I look forward to that constructive feedback.&lt;/p&gt;
+&lt;p&gt;Based on my feedback, I need to work on maintaining clear communication throughout a pairing session instead of only at the beginning. I also need to be a more clear and direct navigator - but I still need to keep in mind my partner and where they might be at in a problem, not moving only at my own pace but making sure we&#39;re moving through the problem together.&lt;/p&gt;
+&lt;p&gt;I used to be much more defensive when I received feedback, probably as a defense mechanism against the self-loathing corner of the Compass of Shame reactions to criticism. I was especially this way with my creative writing - I figured if others didn&#39;t like it, it was just me and only I, ultimately, had to be satisfied with my work. Using creative writing as my template for dealing with criticism was probably a way for me to avoid accepting criticism for a long time. So sometimes when I start reading the constructive portion of feedback I feel that old defensiveness creeping back in, but I try to squash it and tell myself - they are being kind by offering these suggestions and this is a chance to practice growing instead of being fixed.&lt;/p&gt;
+&lt;p&gt;I like giving feedback for this same reason - I really want to help my pairs become the best communicators or programmers they can be, in whatever small way my perspective could help with. Making sure I&#39;m being actionable is my main challenge when writing feedback - it&#39;s easy to say, you&#39;re fun to work with or we got our work done well, but remaining specific and actionable, even if there&#39;s not too much constructive criticism, is what makes the feedback valuable I think.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 06 Jul 2014 08:34:00 -0700</pubDate>
+        <link>http://yourdomain.com/2014/07/06/wk5cultural/</link>
+        <guid isPermaLink="true">http://yourdomain.com/2014/07/06/wk5cultural/</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>

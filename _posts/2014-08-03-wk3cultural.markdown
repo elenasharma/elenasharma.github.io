@@ -1,0 +1,17 @@
+---
+layout: post
+title: "my concrete random DBC experience"
+date:   2014-06-25 11:39:00
+---
+
+When I first got my label as a "concrete random" thinker from the Gregorc Thinking Style quiz, I was content to see the style as an experimenter - I already knew that I worked best when I just jumped in and starting messing with things. But as I researched the thought style more for this week, I found some interesting information that could be useful for my working style or how I go through DBC.
+
+I've struggled most, so far, with getting the reading portions or assignments that don't have some interaction to them. When I can learn through an interactive medium, especially with a visual component, or with another person, I learn best. This tied into what I read about concrete random thinkers - that formal assignments are difficult and that hands-on, creative thinking is more natural.
+
+Also an issue I want to change my approach to is the fact that I hate editing or altering something once I see it as 'finished' - this is a major problem with programming, since projects are hardly ever finished and can always have features added or be refactored! I had this problem as an English major writing papers - I hated revising - and as someone who has tried to write longer projects. So hopefully I can start seeing revisions as new opportunities for being creative and adding cool features instead of destroying what I originally created.
+
+I also have the larger fears of locking myself into a career or a decision like DBC - I'm always wondering if it's right, at every step, or extrapolating from smaller struggles (like with a particular challenge) to think that maybe this is some sort of sign that the overall journey won't work. Reading that locking myself into long-term decisions and having to choose one option are difficult for me as a concrete random thinker made me feel better about these impulses of mine - they feel too negative and I've learned over time not to listen too much to them and instead try to base my feelings on logic rather than these panicked resistances to choosing a path. I have to make the best out of a path and try it out - no decision is entirely final, there are always ways to start new paths if one doesn't work out. That makes 'locking myself in' less of a frightening thought and more like I am being creative and experimenting with my own life, which is something that I enjoy doing on a smaller scale (again, a characteristic of concrete random thinking).
+
+So on a smaller scale, I'm going to try to make each assignment or challenge into something that I can address creatively. I will shake up routines that feel repetitive or uninspired by adding some sort of twist to it - how I approach the problem or even what kind of music I listen to while tackling it. This will make things feel less formal or structured and more mine, which in turn will help me be more productive and happier as I am producing!
+
+Hopefully, this will make my thinking more flexible so I don't approach projects that seem formal, out of my control, or long-term with the disinterest that is instinctive for me. I'd like to be more well-rounded in my thinking and maybe mixing up my approaches to different problems to make them all fun and creative will help with that!
