@@ -4,8 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+I make things. 
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+It's what I've always done, whether it was as a child creating worlds and stories with stuffed animals or now, as a developer. 
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+I make something meaningful out of an idea. While sometimes that goal doesn't fully succeed in the form of a finished product, there is always meaning in the making.
+
+This blog tells the story of how I started my journey as a web developer in the first nine weeks of Dev Bootcamp.
