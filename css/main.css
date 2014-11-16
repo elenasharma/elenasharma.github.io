@@ -35,6 +35,10 @@ h1,h2,h3,h4,h5,h6{
     font-weight: 700;
 }
 
+.section-info {
+  color:#fff;
+}
+
 /* ==========================================================================
    Navigation
    ========================================================================== */
@@ -199,7 +203,7 @@ background-color: transparent;
 
 #grid .mix .overlay{
     width: 200px;
-    height: 150px;
+    height: 100px;
     position:absolute;
     opacity:0;
 
@@ -213,7 +217,7 @@ background-color: transparent;
     font-size: 2em;
     opacity: 1;
     color: #fff;
-    padding-top: 30%;
+    padding-top: 20%;
 }
 
  
@@ -524,8 +528,11 @@ label.valid{
     -o-transform:rotate(360deg);
 }
 
-.btn-twitter:hover{
-    color:#2BA9E0;
+.btn-github:hover{
+    color:#000000;
+}
+.btn-medium:hover{
+    color:#000000;
 }
 
 .btn-facebook:hover{
