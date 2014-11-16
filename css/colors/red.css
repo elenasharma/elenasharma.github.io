@@ -1,20 +1,20 @@
-/* red - #e74c3c */
+/* red - #F33C2B */
 
 
 a:link,a:visited,.navbar-default .navbar-nav>li>a:hover, 
 .navbar-default .navbar-nav>li>a:focus,a:hover,a:active,.navbar-default .navbar-nav>.active>a, 
 .navbar-default .navbar-nav>.active>a:hover, 
 .navbar-default .navbar-nav>.active>a:focus{
-	color:#e74c3c;
+	color:#F33C2B;
 }
 
 .spacer,.nav-pills>li.active>a, .nav-pills>li.active>a:hover, .nav-pills>li.active>a:focus,#grid .mix .overlay {
 
-background: #e74c3c;
+background: #F33C2B;
 }
 
 #page-contact{
-	background: #e74c3c;
+	background: #F33C2B;
 	color:#fff;
 }
 
@@ -28,6 +28,6 @@ background: #e74c3c;
 
 .btn.btn-default:hover,
 .btn.btn-default:active{
-    color:#e74c3c;
+    color:#F33C2B;
 }
 
